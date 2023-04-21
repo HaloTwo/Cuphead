@@ -1,0 +1,2991 @@
+fileFormatVersion: 2
+guid: 55cc654f37bafab49b587eaa460080b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4926025687919226536
+    second: Player Dust Overworld_0
+  - first:
+      213: -3788129820898614820
+    second: Player Dust Overworld_1
+  - first:
+      213: -5682132405764186091
+    second: Player Dust Overworld_2
+  - first:
+      213: -1092072908472335040
+    second: Player Dust Overworld_3
+  - first:
+      213: -8679974928457299025
+    second: Player Dust Overworld_4
+  - first:
+      213: -7048261442016781851
+    second: Player Dust Overworld_5
+  - first:
+      213: 5835945820123402672
+    second: Player Dust Overworld_6
+  - first:
+      213: 4149891617224170717
+    second: Player Dust Overworld_7
+  - first:
+      213: 8556441775417647864
+    second: Player Dust Overworld_8
+  - first:
+      213: 6735998148456005217
+    second: Player Dust Overworld_9
+  - first:
+      213: 1527480276766194619
+    second: Player Dust Overworld_10
+  - first:
+      213: 8108465851804772748
+    second: Player Dust Overworld_11
+  - first:
+      213: -4482122447841303843
+    second: Player Dust Overworld_12
+  - first:
+      213: -8958300035854684805
+    second: Player Dust Overworld_13
+  - first:
+      213: -2480689367931065828
+    second: Player Dust Overworld_14
+  - first:
+      213: 1266170989336078389
+    second: Player Dust Overworld_15
+  - first:
+      213: -4343693963092354537
+    second: Player Dust Overworld_16
+  - first:
+      213: 357873217887510590
+    second: Player Dust Overworld_17
+  - first:
+      213: -8254056333510849059
+    second: Player Dust Overworld_18
+  - first:
+      213: -5686561634040092712
+    second: Player Dust Overworld_19
+  - first:
+      213: 6559508753954786760
+    second: Player Dust Overworld_20
+  - first:
+      213: 2214436871652552034
+    second: Player Dust Overworld_21
+  - first:
+      213: 7482381489213593391
+    second: Player Dust Overworld_22
+  - first:
+      213: 527467620093623961
+    second: Player Dust Overworld_23
+  - first:
+      213: -3511947153851762228
+    second: Player Dust Overworld_24
+  - first:
+      213: 7625468524152275761
+    second: Player Dust Overworld_25
+  - first:
+      213: 2427550637380170662
+    second: Player Dust Overworld_26
+  - first:
+      213: 1870595906639718840
+    second: Player Dust Overworld_27
+  - first:
+      213: 223202148238126466
+    second: Player Dust Overworld_28
+  - first:
+      213: 308314880392873884
+    second: Player Dust Overworld_29
+  - first:
+      213: 3120635965205361365
+    second: Player Dust Overworld_30
+  - first:
+      213: 3727180860700687584
+    second: Player Dust Overworld_31
+  - first:
+      213: 7691997390796398819
+    second: Player Dust Overworld_32
+  - first:
+      213: -1011874063852010082
+    second: Player Dust Overworld_33
+  - first:
+      213: -8129942160911850831
+    second: Player Dust Overworld_34
+  - first:
+      213: -3836586695374715771
+    second: Player Dust Overworld_35
+  - first:
+      213: 970065624565397662
+    second: Player Dust Overworld_36
+  - first:
+      213: -5384993086103543685
+    second: Player Dust Overworld_37
+  - first:
+      213: -4753120191480102042
+    second: Player Dust Overworld_38
+  - first:
+      213: -5358276298328743670
+    second: Player Dust Overworld_39
+  - first:
+      213: -6291473318440207243
+    second: Player Dust Overworld_40
+  - first:
+      213: -5451080122038582552
+    second: Player Dust Overworld_41
+  - first:
+      213: 8100773792669981057
+    second: Player Dust Overworld_42
+  - first:
+      213: -4026347501939928224
+    second: Player Dust Overworld_43
+  - first:
+      213: -5789051804511278364
+    second: Player Dust Overworld_44
+  - first:
+      213: -2470366657100841004
+    second: Player Dust Overworld_45
+  - first:
+      213: -7163969781101602529
+    second: Player Dust Overworld_46
+  - first:
+      213: 2270195103110455291
+    second: Player Dust Overworld_47
+  - first:
+      213: -6164288725208049963
+    second: Player Dust Overworld_48
+  - first:
+      213: -6574403983929028379
+    second: Player Dust Overworld_49
+  - first:
+      213: 7812282705152356767
+    second: Player Dust Overworld_50
+  - first:
+      213: 5086767736777559965
+    second: Player Dust Overworld_51
+  - first:
+      213: -2213950239227838866
+    second: Player Dust Overworld_52
+  - first:
+      213: 7339519493768854792
+    second: Player Dust Overworld_53
+  - first:
+      213: -6857488208223449982
+    second: Player Dust Overworld_54
+  - first:
+      213: -2413116638988506328
+    second: Player Dust Overworld_55
+  - first:
+      213: 6571587375688880296
+    second: Player Dust Overworld_56
+  - first:
+      213: -4611036326628077087
+    second: Player Dust Overworld_57
+  - first:
+      213: 8691836362957544066
+    second: Player Dust Overworld_58
+  - first:
+      213: 1286151737075220122
+    second: Player Dust Overworld_59
+  - first:
+      213: 6907470183535728892
+    second: Player Dust Overworld_60
+  - first:
+      213: -5660088588751912160
+    second: Player Dust Overworld_61
+  - first:
+      213: -522340091929406494
+    second: Player Dust Overworld_62
+  - first:
+      213: -2350590592244800508
+    second: Player Dust Overworld_63
+  - first:
+      213: 4326743155403347603
+    second: Player Dust Overworld_64
+  - first:
+      213: -4199126961836878592
+    second: Player Dust Overworld_65
+  - first:
+      213: 4343696098018209616
+    second: Player Dust Overworld_66
+  - first:
+      213: -4948301485419838669
+    second: Player Dust Overworld_67
+  - first:
+      213: -8982040797892037961
+    second: Player Dust Overworld_68
+  - first:
+      213: -4687107191538633739
+    second: Player Dust Overworld_69
+  - first:
+      213: -4686227311171186049
+    second: Player Dust Overworld_70
+  - first:
+      213: -6960132311842349143
+    second: Player Dust Overworld_71
+  - first:
+      213: 5433502182959997915
+    second: Player Dust Overworld_72
+  - first:
+      213: 8185359812365198098
+    second: Player Dust Overworld_73
+  - first:
+      213: 5111907901919808396
+    second: Player Dust Overworld_74
+  - first:
+      213: -2060305707928127626
+    second: Player Dust Overworld_75
+  - first:
+      213: -8043510069025046822
+    second: Player Dust Overworld_76
+  - first:
+      213: -7142618639417256509
+    second: Player Dust Overworld_77
+  - first:
+      213: -1788045898890494054
+    second: Player Dust Overworld_78
+  - first:
+      213: 5029018008891760884
+    second: Player Dust Overworld_79
+  - first:
+      213: -8375650143200721266
+    second: Player Dust Overworld_80
+  - first:
+      213: -3699417158536623764
+    second: Player Dust Overworld_81
+  - first:
+      213: -6792753486773501882
+    second: Player Dust Overworld_82
+  - first:
+      213: -6114960818528137539
+    second: Player Dust Overworld_83
+  - first:
+      213: -8696233237408607342
+    second: Player Dust Overworld_84
+  - first:
+      213: 4120464864710720113
+    second: Player Dust Overworld_85
+  - first:
+      213: 6477872570718941353
+    second: Player Dust Overworld_86
+  - first:
+      213: -2790974023990113440
+    second: Player Dust Overworld_87
+  - first:
+      213: -7168143030528804141
+    second: Player Dust Overworld_88
+  - first:
+      213: 6827320401028705407
+    second: Player Dust Overworld_89
+  - first:
+      213: -7253756963693178837
+    second: Player Dust Overworld_90
+  - first:
+      213: -7736174000950607532
+    second: Player Dust Overworld_91
+  - first:
+      213: 5678646622823691585
+    second: Player Dust Overworld_92
+  - first:
+      213: 5750884816985621965
+    second: Player Dust Overworld_93
+  - first:
+      213: -3325886473919327255
+    second: Player Dust Overworld_94
+  - first:
+      213: 6529266290215728038
+    second: Player Dust Overworld_95
+  - first:
+      213: -8915552843159767509
+    second: Player Dust Overworld_96
+  - first:
+      213: -3803774007735954879
+    second: Player Dust Overworld_97
+  - first:
+      213: 2840568560007349148
+    second: Player Dust Overworld_98
+  - first:
+      213: -8977822293741029793
+    second: Player Dust Overworld_99
+  - first:
+      213: -2255339748110099910
+    second: Player Dust Overworld_100
+  - first:
+      213: -6787575507495810109
+    second: Player Dust Overworld_101
+  - first:
+      213: -3318067907569784630
+    second: Player Dust Overworld_102
+  - first:
+      213: 2072347756594863735
+    second: Player Dust Overworld_103
+  - first:
+      213: -1022798440922035278
+    second: Player Dust Overworld_104
+  - first:
+      213: 6808056563704802980
+    second: Player Dust Overworld_105
+  - first:
+      213: -7356930001729123730
+    second: Player Dust Overworld_106
+  - first:
+      213: -6384162604161528692
+    second: Player Dust Overworld_107
+  - first:
+      213: 7403477347952030949
+    second: Player Dust Overworld_108
+  - first:
+      213: 4632146892061686023
+    second: Player Dust Overworld_109
+  - first:
+      213: 3319789674501176557
+    second: Player Dust Overworld_110
+  - first:
+      213: 1727680973310329678
+    second: Player Dust Overworld_111
+  - first:
+      213: -6402680751185713324
+    second: Player Dust Overworld_112
+  - first:
+      213: -3959921337329448691
+    second: Player Dust Overworld_113
+  - first:
+      213: -7641778695968105409
+    second: Player Dust Overworld_114
+  - first:
+      213: 2590184215532928130
+    second: Player Dust Overworld_115
+  - first:
+      213: -1239120175039537159
+    second: Player Dust Overworld_116
+  - first:
+      213: -1449731593858437737
+    second: Player Dust Overworld_117
+  - first:
+      213: 4702055095716674815
+    second: Player Dust Overworld_118
+  - first:
+      213: -7397054098098805184
+    second: Player Dust Overworld_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Dust Overworld_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 420.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeefd29342cc5440800000000000000
+      internalID: 4926025687919226536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 420.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1264e8ffbdd6bc0800000000000000
+      internalID: -3788129820898614820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a0b3aea20521b0800000000000000
+      internalID: -5682132405764186091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 420.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045cdadc97d28d0f0800000000000000
+      internalID: -1092072908472335040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_4
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 422
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab81028ac88a8780800000000000000
+      internalID: -8679974928457299025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_5
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d180df8b8f2e90800000000000000
+      internalID: -7048261442016781851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_6
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b191e0adc17df050800000000000000
+      internalID: 5835945820123402672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_7
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc94055070679930800000000000000
+      internalID: 4149891617224170717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e415f5769eb670800000000000000
+      internalID: 8556441775417647864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_9
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb86e80a21b7d50800000000000000
+      internalID: 6735998148456005217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_10
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb70120833b23510800000000000000
+      internalID: 1527480276766194619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_11
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8965325bbe078070800000000000000
+      internalID: 8108465851804772748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 422
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd26d98816d4cc1c0800000000000000
+      internalID: -4482122447841303843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d238b9499bda380800000000000000
+      internalID: -8958300035854684805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_14
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a6162c922d29dd0800000000000000
+      internalID: -2480689367931065828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_15
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 420
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538284c6ec7529110800000000000000
+      internalID: 1266170989336078389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 423
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a1fdcba5918b3c0800000000000000
+      internalID: -4343693963092354537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_17
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 421
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30afcaabcb67f400800000000000000
+      internalID: 357873217887510590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_18
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 419
+        width: 71
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddc50d1f73b37d80800000000000000
+      internalID: -8254056333510849059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd4a8c357e080b50800000000000000
+      internalID: 6559508753954786760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26da0682a924bbe10800000000000000
+      internalID: 2214436871652552034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27d8823252c6d760800000000000000
+      internalID: 7482381489213593391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_23
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e733e7101f15700800000000000000
+      internalID: 527467620093623961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_24
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9b8b0bbae034fc0800000000000000
+      internalID: -3511947153851762228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133c404a83b13d960800000000000000
+      internalID: 7625468524152275761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a37157617460b120800000000000000
+      internalID: 2427550637380170662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b96f85f011b5f910800000000000000
+      internalID: 1870595906639718840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_28
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d66d6db29f81300800000000000000
+      internalID: 223202148238126466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_29
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97c8cc00ca574400800000000000000
+      internalID: 308314880392873884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_30
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2bf5360e9be4b20800000000000000
+      internalID: 3120635965205361365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_31
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecf2bfce3b99b330800000000000000
+      internalID: 3727180860700687584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_32
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0a6ab7fd67fba60800000000000000
+      internalID: 7691997390796398819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_33
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e958baa66e915f1f0800000000000000
+      internalID: -1011874063852010082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_34
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2a06ecda4ac2f80800000000000000
+      internalID: -8129942160911850831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_35
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58443384ab4b1cac0800000000000000
+      internalID: -3836586695374715771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_36
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b901cb8d567d00800000000000000
+      internalID: 970065624565397662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_37
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b702dd0b159a445b0800000000000000
+      internalID: -5384993086103543685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_38
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66387147e56890eb0800000000000000
+      internalID: -4753120191480102042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_39
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 338.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0168b5981493a5b0800000000000000
+      internalID: -5358276298328743670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cf58cb95230b8a0800000000000000
+      internalID: -6291473318440207243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e282b3928fd954b0800000000000000
+      internalID: -5451080122038582552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_42
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18953ed38dabb6070800000000000000
+      internalID: 8100773792669981057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_43
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063d69c874a8f18c0800000000000000
+      internalID: -4026347501939928224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_44
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea65c53e0829afa0800000000000000
+      internalID: -5789051804511278364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_45
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dff88a2d9e77bdd0800000000000000
+      internalID: -2470366657100841004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_46
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f195ecfb077749c90800000000000000
+      internalID: -7163969781101602529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_47
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffdab31b6a518f10800000000000000
+      internalID: 2270195103110455291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_48
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d65701701c047aa0800000000000000
+      internalID: -6164288725208049963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_49
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e05ff7c86603c4a0800000000000000
+      internalID: -6574403983929028379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_50
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91b885aabdca6c60800000000000000
+      internalID: 7812282705152356767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_51
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4b854e44d79640800000000000000
+      internalID: 5086767736777559965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_52
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6efe68ccf77641e0800000000000000
+      internalID: -2213950239227838866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_53
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db528d7163bd560800000000000000
+      internalID: 7339519493768854792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_54
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c4961aece45d0a0800000000000000
+      internalID: -6857488208223449982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_55
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b618bb333e28ed0800000000000000
+      internalID: -2413116638988506328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_56
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0906286e7f23b50800000000000000
+      internalID: 6571587375688880296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_57
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e159e824ee4200c0800000000000000
+      internalID: -4611036326628077087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_58
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a58ebee1b9f9870800000000000000
+      internalID: 8691836362957544066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_59
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 256.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ebe97c03459d110800000000000000
+      internalID: 1286151737075220122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_60
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8df3ad8834cdf50800000000000000
+      internalID: 6907470183535728892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_61
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023433eba635371b0800000000000000
+      internalID: -5660088588751912160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35a90347640c8f0800000000000000
+      internalID: -522340091929406494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_63
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404afd07f46016fd0800000000000000
+      internalID: -2350590592244800508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_64
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3965b2cc9fdab0c30800000000000000
+      internalID: 4326743155403347603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00592f0b644b9b5c0800000000000000
+      internalID: -4199126961836878592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_66
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f20a65698e74c30800000000000000
+      internalID: 4343696098018209616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_67
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334308240a145bb0800000000000000
+      internalID: -4948301485419838669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_68
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b23493bb71695380800000000000000
+      internalID: -8982040797892037961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_69
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f33928b7dc04feb0800000000000000
+      internalID: -4687107191538633739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_70
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7258e4d61d27feb0800000000000000
+      internalID: -4686227311171186049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_71
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1beae984a86f90800000000000000
+      internalID: -6960132311842349143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_72
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e3ad827da76b40800000000000000
+      internalID: 5433502182959997915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_73
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21329c6a16d389170800000000000000
+      internalID: 8185359812365198098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_74
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b417a172521f640800000000000000
+      internalID: 5111907901919808396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_75
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677fb36efd25863e0800000000000000
+      internalID: -2060305707928127626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_76
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adefb746536bf5090800000000000000
+      internalID: -8043510069025046822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_77
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5537fc03250ec90800000000000000
+      internalID: -7142618639417256509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_78
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb98a7ab59f27e0800000000000000
+      internalID: -1788045898890494054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_79
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 174.83334
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f02905fb39aac540800000000000000
+      internalID: 5029018008891760884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_80
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8642932296b3cb80800000000000000
+      internalID: -8375650143200721266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_81
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c698075d1b709acc0800000000000000
+      internalID: -3699417158536623764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640c11e71ba4bb1a0800000000000000
+      internalID: -6792753486773501882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_83
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec234b88b432ba0800000000000000
+      internalID: -6114960818528137539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_84
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2939058f1f5c05780800000000000000
+      internalID: -8696233237408607342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a7f8a96f4de2930800000000000000
+      internalID: 4120464864710720113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_86
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0f2f528c606e950800000000000000
+      internalID: 6477872570718941353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_87
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b0ab299e77449d0800000000000000
+      internalID: -2790974023990113440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_88
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da732664e3a58c90800000000000000
+      internalID: -7168143030528804141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_89
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ce7176bb38fbe50800000000000000
+      internalID: 6827320401028705407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_90
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b205d0c397a755b90800000000000000
+      internalID: -7253756963693178837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_91
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4510ab0fbb693a490800000000000000
+      internalID: -7736174000950607532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_92
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145b066440b9ece40800000000000000
+      internalID: 5678646622823691585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_93
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc58d94854f3fcf40800000000000000
+      internalID: 5750884816985621965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_94
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e313ce8fd318d1d0800000000000000
+      internalID: -3325886473919327255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_95
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3bd30f81d9c9a50800000000000000
+      internalID: 6529266290215728038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_96
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26fc3ffce7954480800000000000000
+      internalID: -8915552843159767509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_97
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142d80771b7463bc0800000000000000
+      internalID: -3803774007735954879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_98
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93816b2e0abb6720800000000000000
+      internalID: 2840568560007349148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_99
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 92.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56bbfcb03e586380800000000000000
+      internalID: -8977822293741029793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_100
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a141ac27c63b0e0800000000000000
+      internalID: -2255339748110099910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb029db900bdc1a0800000000000000
+      internalID: -6787575507495810109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_102
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8eda461dad3f1d0800000000000000
+      internalID: -3318067907569784630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_103
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e1aea0e4572cc10800000000000000
+      internalID: 2072347756594863735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_104
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbc40cac3a4ec1f0800000000000000
+      internalID: -1022798440922035278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_105
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae2462cf531b7e50800000000000000
+      internalID: 6808056563704802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_106
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8581642fe6e990800000000000000
+      internalID: -7356930001729123730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_107
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c8e9eafe5e667a0800000000000000
+      internalID: -6384162604161528692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_108
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4f4533c6f6eb660800000000000000
+      internalID: 7403477347952030949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_109
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70934c06e01b84040800000000000000
+      internalID: 4632146892061686023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_110
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decf6a5be13421e20800000000000000
+      internalID: 3319789674501176557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_111
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e430d5b01b4f9f710800000000000000
+      internalID: 1727680973310329678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_112
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457285797cb1527a0800000000000000
+      internalID: -6402680751185713324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_113
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d090df536888b09c0800000000000000
+      internalID: -3959921337329448691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_114
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c5cae83c2f2f590800000000000000
+      internalID: -7641778695968105409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_115
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cf9a512de22f320800000000000000
+      internalID: 2590184215532928130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_116
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff9fb414c2cdcee0800000000000000
+      internalID: -1239120175039537159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_117
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d2860ebc481ebe0800000000000000
+      internalID: -1449731593858437737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_118
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffcf18e623e014140800000000000000
+      internalID: 4702055095716674815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust Overworld_119
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 10.833336
+        width: 70.85
+        height: 72.166664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04629723d72685990800000000000000
+      internalID: -7397054098098805184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

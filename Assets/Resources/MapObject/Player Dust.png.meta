@@ -1,0 +1,2988 @@
+fileFormatVersion: 2
+guid: 455a635662064574386514e598b0c879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4862763426924712182
+    second: Player Dust_0
+  - first:
+      213: 1343384011256365121
+    second: Player Dust_1
+  - first:
+      213: 5011432708601072020
+    second: Player Dust_2
+  - first:
+      213: -3018265513034941203
+    second: Player Dust_3
+  - first:
+      213: 2909436437220979920
+    second: Player Dust_4
+  - first:
+      213: 6901574499026550428
+    second: Player Dust_5
+  - first:
+      213: 5255353004461926695
+    second: Player Dust_6
+  - first:
+      213: 6516574599954510414
+    second: Player Dust_7
+  - first:
+      213: 6766990957980857757
+    second: Player Dust_8
+  - first:
+      213: -4637558051119022318
+    second: Player Dust_9
+  - first:
+      213: 533246607789700786
+    second: Player Dust_10
+  - first:
+      213: -6329335043088137798
+    second: Player Dust_11
+  - first:
+      213: 2382373793105444369
+    second: Player Dust_12
+  - first:
+      213: 5119593074802208571
+    second: Player Dust_13
+  - first:
+      213: 8247183011500151537
+    second: Player Dust_14
+  - first:
+      213: 8552707093953505817
+    second: Player Dust_15
+  - first:
+      213: -3623003810965008203
+    second: Player Dust_16
+  - first:
+      213: 6606635067358378984
+    second: Player Dust_17
+  - first:
+      213: -91178304232360725
+    second: Player Dust_18
+  - first:
+      213: 6024411563032424526
+    second: Player Dust_20
+  - first:
+      213: -3877787426214733307
+    second: Player Dust_21
+  - first:
+      213: -538277446542799360
+    second: Player Dust_22
+  - first:
+      213: -1160207056114027192
+    second: Player Dust_23
+  - first:
+      213: -2025279264747993182
+    second: Player Dust_24
+  - first:
+      213: 9143484816850285347
+    second: Player Dust_25
+  - first:
+      213: 397865136660825014
+    second: Player Dust_26
+  - first:
+      213: 2422569006219843580
+    second: Player Dust_27
+  - first:
+      213: -1794899312727809856
+    second: Player Dust_28
+  - first:
+      213: -3439699318930332454
+    second: Player Dust_29
+  - first:
+      213: 4815361014321304614
+    second: Player Dust_30
+  - first:
+      213: -898982034455776299
+    second: Player Dust_31
+  - first:
+      213: -1427723764158589756
+    second: Player Dust_32
+  - first:
+      213: -4647005894831369261
+    second: Player Dust_33
+  - first:
+      213: 3280264196434063950
+    second: Player Dust_34
+  - first:
+      213: -3472771640212246842
+    second: Player Dust_35
+  - first:
+      213: 275244705993555492
+    second: Player Dust_36
+  - first:
+      213: 5739747066876792156
+    second: Player Dust_37
+  - first:
+      213: -6091042486760992625
+    second: Player Dust_38
+  - first:
+      213: -7221012472451708811
+    second: Player Dust_39
+  - first:
+      213: 2512970966415347379
+    second: Player Dust_40
+  - first:
+      213: -5097881203955797003
+    second: Player Dust_41
+  - first:
+      213: 1144860912932999224
+    second: Player Dust_42
+  - first:
+      213: 6316498186921038069
+    second: Player Dust_43
+  - first:
+      213: 6415577152645681676
+    second: Player Dust_44
+  - first:
+      213: 1903131055857865105
+    second: Player Dust_45
+  - first:
+      213: -5266862276499612780
+    second: Player Dust_46
+  - first:
+      213: -8383566901607250945
+    second: Player Dust_47
+  - first:
+      213: 5434137754351150036
+    second: Player Dust_48
+  - first:
+      213: -8512465747649153463
+    second: Player Dust_49
+  - first:
+      213: -4091756008587518998
+    second: Player Dust_50
+  - first:
+      213: -287810055707071854
+    second: Player Dust_51
+  - first:
+      213: 2160767505680163879
+    second: Player Dust_52
+  - first:
+      213: 8298941746918274308
+    second: Player Dust_53
+  - first:
+      213: 6036984349898605780
+    second: Player Dust_54
+  - first:
+      213: 7850292067918747406
+    second: Player Dust_55
+  - first:
+      213: 7958513715687102489
+    second: Player Dust_56
+  - first:
+      213: 1932564426968403212
+    second: Player Dust_57
+  - first:
+      213: 8112209502096866334
+    second: Player Dust_58
+  - first:
+      213: 3571602006956154696
+    second: Player Dust_59
+  - first:
+      213: -526725029136531627
+    second: Player Dust_60
+  - first:
+      213: -6753335685967912005
+    second: Player Dust_61
+  - first:
+      213: -6261858747945999130
+    second: Player Dust_62
+  - first:
+      213: -2642260343576342421
+    second: Player Dust_63
+  - first:
+      213: -6729599533163604334
+    second: Player Dust_64
+  - first:
+      213: 5857266529208748307
+    second: Player Dust_65
+  - first:
+      213: 7779871544909641341
+    second: Player Dust_66
+  - first:
+      213: -5326947214363250810
+    second: Player Dust_67
+  - first:
+      213: 6938274855600237028
+    second: Player Dust_68
+  - first:
+      213: -4057455532191516496
+    second: Player Dust_69
+  - first:
+      213: 8579748778707145891
+    second: Player Dust_70
+  - first:
+      213: 9054444290609701475
+    second: Player Dust_71
+  - first:
+      213: 3097876528850949682
+    second: Player Dust_72
+  - first:
+      213: 8832864246436552261
+    second: Player Dust_73
+  - first:
+      213: 3960867212764960361
+    second: Player Dust_74
+  - first:
+      213: -672750277881862684
+    second: Player Dust_75
+  - first:
+      213: -4950941859194668002
+    second: Player Dust_76
+  - first:
+      213: 8823228424853896764
+    second: Player Dust_77
+  - first:
+      213: -8664287531655929037
+    second: Player Dust_78
+  - first:
+      213: 8192331186505112381
+    second: Player Dust_79
+  - first:
+      213: -5312948335620780854
+    second: Player Dust_80
+  - first:
+      213: -754084927575000861
+    second: Player Dust_81
+  - first:
+      213: -7687911658802423468
+    second: Player Dust_82
+  - first:
+      213: -2916054718306988714
+    second: Player Dust_83
+  - first:
+      213: -923463778991286390
+    second: Player Dust_84
+  - first:
+      213: 5150419653104070982
+    second: Player Dust_85
+  - first:
+      213: 267171365329066030
+    second: Player Dust_86
+  - first:
+      213: 1522369402339836411
+    second: Player Dust_87
+  - first:
+      213: -8825990834617421541
+    second: Player Dust_88
+  - first:
+      213: -9170563221417656006
+    second: Player Dust_89
+  - first:
+      213: 895098049037756529
+    second: Player Dust_90
+  - first:
+      213: 8364881718098414548
+    second: Player Dust_91
+  - first:
+      213: -520110083333213808
+    second: Player Dust_92
+  - first:
+      213: -8397831160549324688
+    second: Player Dust_93
+  - first:
+      213: -4905086550207347881
+    second: Player Dust_94
+  - first:
+      213: 480651126450777529
+    second: Player Dust_95
+  - first:
+      213: -2165581479907362959
+    second: Player Dust_96
+  - first:
+      213: -9204957236264199345
+    second: Player Dust_97
+  - first:
+      213: 6874812854999171958
+    second: Player Dust_98
+  - first:
+      213: -5042392301556306783
+    second: Player Dust_99
+  - first:
+      213: -2508053006935208691
+    second: Player Dust_100
+  - first:
+      213: 8299425351085876472
+    second: Player Dust_101
+  - first:
+      213: -3439274540007786848
+    second: Player Dust_102
+  - first:
+      213: 6799078497369781028
+    second: Player Dust_103
+  - first:
+      213: -4258569961493376265
+    second: Player Dust_104
+  - first:
+      213: 6685125991610398119
+    second: Player Dust_105
+  - first:
+      213: 2381341159948147373
+    second: Player Dust_106
+  - first:
+      213: -7254974683660607792
+    second: Player Dust_107
+  - first:
+      213: -4822731208659766728
+    second: Player Dust_108
+  - first:
+      213: -797431087918784299
+    second: Player Dust_109
+  - first:
+      213: -2961121442781304705
+    second: Player Dust_110
+  - first:
+      213: 761016267791684455
+    second: Player Dust_111
+  - first:
+      213: 4628534636728349792
+    second: Player Dust_112
+  - first:
+      213: 4654579069940713456
+    second: Player Dust_113
+  - first:
+      213: 6055339759239187958
+    second: Player Dust_114
+  - first:
+      213: 4718052198304257297
+    second: Player Dust_115
+  - first:
+      213: -4999867463484823399
+    second: Player Dust_116
+  - first:
+      213: 7761073555374568092
+    second: Player Dust_117
+  - first:
+      213: -7675196657097607046
+    second: Player Dust_118
+  - first:
+      213: 3501082575170027550
+    second: Player Dust_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player Dust_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 731
+        width: 128
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0db90a2910c7340800000000000000
+      internalID: 4862763426924712182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 731
+        width: 129
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14000e304a8a4a210800000000000000
+      internalID: 1343384011256365121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_2
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 730.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499c0fb2f7f2c8540800000000000000
+      internalID: 5011432708601072020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_3
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 730.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec7db1e187fc16d0800000000000000
+      internalID: -3018265513034941203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 730.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d472295605606820800000000000000
+      internalID: 2909436437220979920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 730.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e3f55d07157cf50800000000000000
+      internalID: 6901574499026550428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_6
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7292c38a6b3cee840800000000000000
+      internalID: 5255353004461926695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_7
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423f9682168f6a50800000000000000
+      internalID: 6516574599954510414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_8
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95bab85c6e29ed50800000000000000
+      internalID: 6766990957980857757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_9
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f3cc9f58514afb0800000000000000
+      internalID: -4637558051119022318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_10
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6bcfae6f8766700800000000000000
+      internalID: 533246607789700786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_11
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1cc44005fa928a0800000000000000
+      internalID: -6329335043088137798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_12
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eff3ca754ef0120800000000000000
+      internalID: 2382373793105444369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_13
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa22ad6c27c0740800000000000000
+      internalID: 5119593074802208571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_14
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f25a16e041e37270800000000000000
+      internalID: 8247183011500151537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_15
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91aef0ba9c151b670800000000000000
+      internalID: 8552707093953505817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_16
+      rect:
+        serializedVersion: 2
+        x: 2293
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b05b8bba3188bdc0800000000000000
+      internalID: -3623003810965008203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_17
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 731
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ebf88e179b7fab50800000000000000
+      internalID: 6606635067358378984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_18
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 730
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f10db0d11cbef0800000000000000
+      internalID: -91178304232360725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_20
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40bd4bd5620b9350800000000000000
+      internalID: 6024411563032424526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a9ef991e45f2ac0800000000000000
+      internalID: -3877787426214733307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_22
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e4638a387a788f0800000000000000
+      internalID: -538277446542799360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_23
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845fb6a54dd16efe0800000000000000
+      internalID: -1160207056114027192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_24
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a74bb53d33c4e3e0800000000000000
+      internalID: -2025279264747993182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_25
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323f9852ffe24ee70800000000000000
+      internalID: 9143484816850285347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_26
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b34e2bdb30858500800000000000000
+      internalID: 397865136660825014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_27
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7da930da1be9120800000000000000
+      internalID: 2422569006219843580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_28
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c02449b59c3717e0800000000000000
+      internalID: -1794899312727809856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_29
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4210991bbb340d0800000000000000
+      internalID: -3439699318930332454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_30
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624d2e3645993d240800000000000000
+      internalID: 4815361014321304614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_31
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d33ec84a9c2683f0800000000000000
+      internalID: -898982034455776299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_32
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c491f70dc4bf2ce0800000000000000
+      internalID: -1427723764158589756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_33
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d31e6172c4828fb0800000000000000
+      internalID: -4647005894831369261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_34
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4272e538e6d58d20800000000000000
+      internalID: 3280264196434063950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_35
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce291fb79c3ecfc0800000000000000
+      internalID: -3472771640212246842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_36
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e7d0f0a9dd1d300800000000000000
+      internalID: 275244705993555492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_37
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d08cdfb8da7af40800000000000000
+      internalID: 5739747066876792156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_38
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809cc84125487ba0800000000000000
+      internalID: -6091042486760992625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_39
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 586.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c9d43a6fc9cb90800000000000000
+      internalID: -7221012472451708811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8e0897cddfd220800000000000000
+      internalID: 2512970966415347379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_41
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3f2130e00b049b0800000000000000
+      internalID: -5097881203955797003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830d9904fec53ef00800000000000000
+      internalID: 1144860912932999224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_43
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0d3df72a5b8a750800000000000000
+      internalID: 6316498186921038069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02de8cdd65b80950800000000000000
+      internalID: 6415577152645681676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_45
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911c61bc97496a10800000000000000
+      internalID: 1903131055857865105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_46
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd5502aa858e6b0800000000000000
+      internalID: -5266862276499612780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_47
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff34afe225697ab80800000000000000
+      internalID: -8383566901607250945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_48
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3a3ac0f7fe96b40800000000000000
+      internalID: 5434137754351150036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_49
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94631b4e085add980800000000000000
+      internalID: -8512465747649153463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_50
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb1298d6992737c0800000000000000
+      internalID: -4091756008587518998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_51
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a6bca774e710cf0800000000000000
+      internalID: -287810055707071854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_52
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724e54229969cfd10800000000000000
+      internalID: 2160767505680163879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_53
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40539b49c83cb2370800000000000000
+      internalID: 8298941746918274308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_54
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d48c4ae74da7c350800000000000000
+      internalID: 6036984349898605780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_55
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e071d5b0b07d1fc60800000000000000
+      internalID: 7850292067918747406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_56
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9189a93fe02527e60800000000000000
+      internalID: 7958513715687102489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_57
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d020f6b19d1da10800000000000000
+      internalID: 1932564426968403212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_58
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3804df8b549070800000000000000
+      internalID: 8112209502096866334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_59
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 442.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f91b72a11e09130800000000000000
+      internalID: 3571602006956154696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f72007062b0b8f0800000000000000
+      internalID: -526725029136531627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_61
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb3e9ec69f45742a0800000000000000
+      internalID: -6753335685967912005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_62
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a10f35a86919a0800000000000000
+      internalID: -6261858747945999130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_63
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60d701873ec45bd0800000000000000
+      internalID: -2642260343576342421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_64
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296162921e8ab92a0800000000000000
+      internalID: -6729599533163604334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_65
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319c54c00e0394150800000000000000
+      internalID: 5857266529208748307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_66
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76328853f7a7fb60800000000000000
+      internalID: 7779871544909641341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_67
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2f9e5bb1e216b0800000000000000
+      internalID: -5326947214363250810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_68
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9a31a7834b94060800000000000000
+      internalID: 6938274855600237028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_69
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8f7c7d0b501b7c0800000000000000
+      internalID: -4057455532191516496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_70
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a45ee88e04611770800000000000000
+      internalID: 8579748778707145891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_71
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362ea5c1c19d7ad70800000000000000
+      internalID: 9054444290609701475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_72
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365e2c2a4eddfa20800000000000000
+      internalID: 3097876528850949682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_73
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e591ecb33a49a70800000000000000
+      internalID: 8832864246436552261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_74
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966d8539eb3d7f630800000000000000
+      internalID: 3960867212764960361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_75
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e56e48cf29e9a6f0800000000000000
+      internalID: -672750277881862684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_76
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf61b3c98ba4bb0800000000000000
+      internalID: -4950941859194668002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_77
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ebb834187627a70800000000000000
+      internalID: 8823228424853896764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_78
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3336dc3356442c780800000000000000
+      internalID: -8664287531655929037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_79
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 298.8333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bddfd2fc101b170800000000000000
+      internalID: 8192331186505112381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc025153ad9446b0800000000000000
+      internalID: -5312948335620780854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_81
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87a61f0c3f885f0800000000000000
+      internalID: -754084927575000861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_82
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595f70241d0f4590800000000000000
+      internalID: -7687911658802423468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_83
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dc5b10fa71887d0800000000000000
+      internalID: -2916054718306988714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_84
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87d842f5923f23f0800000000000000
+      internalID: -923463778991286390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_85
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641757be267f97740800000000000000
+      internalID: 5150419653104070982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_86
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e285894f0fe25b300800000000000000
+      internalID: 267171365329066030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_87
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1c363d7ea802510800000000000000
+      internalID: 1522369402339836411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_88
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1176c71918c38580800000000000000
+      internalID: -8825990834617421541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_89
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31832d765d9bb080800000000000000
+      internalID: -9170563221417656006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_90
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1786a04eee60c6c00800000000000000
+      internalID: 895098049037756529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_91
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4a638a97061470800000000000000
+      internalID: 8364881718098414548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_92
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09133d682a238c8f0800000000000000
+      internalID: -520110083333213808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_93
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07840c79d09e47b80800000000000000
+      internalID: -8397831160549324688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_94
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753485655c1adebb0800000000000000
+      internalID: -4905086550207347881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_95
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd6df427ad9ba600800000000000000
+      internalID: 480651126450777529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_96
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177f4f52e1f42f1e0800000000000000
+      internalID: -2165581479907362959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_97
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b9fcfd92c614080800000000000000
+      internalID: -9204957236264199345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_98
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673c3870edd386f50800000000000000
+      internalID: 6874812854999171958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_99
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 154.83333
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac629fdae2d50ab0800000000000000
+      internalID: -5042392301556306783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_100
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0dc6c3141b913dd0800000000000000
+      internalID: -2508053006935208691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_101
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f46853726b7d2370800000000000000
+      internalID: 8299425351085876472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_102
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a67ac5270e3540d0800000000000000
+      internalID: -3439274540007786848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_103
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423f8bbcedd2b5e50800000000000000
+      internalID: 6799078497369781028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_104
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d902de2586e4c0800000000000000
+      internalID: -4258569961493376265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_105
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a53ba88ba656cc50800000000000000
+      internalID: 6685125991610398119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_106
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad9b70b293c0120800000000000000
+      internalID: 2381341159948147373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_107
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de15f5b6f6215b90800000000000000
+      internalID: -7254974683660607792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_108
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f4a48487321db0800000000000000
+      internalID: -4822731208659766728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_109
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d06fb786a4fee4f0800000000000000
+      internalID: -797431087918784299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_110
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f786a3a8cbbf7e6d0800000000000000
+      internalID: -2961121442781304705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_111
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7635406734caf8a00800000000000000
+      internalID: 761016267791684455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_112
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064f8c4aabbdb3040800000000000000
+      internalID: 4628534636728349792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_113
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7c8cac003689040800000000000000
+      internalID: 4654579069940713456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_114
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd40cfad63e80450800000000000000
+      internalID: 6055339759239187958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_115
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151daf1a73e97140800000000000000
+      internalID: 4718052198304257297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_116
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99824fa4807ec9ab0800000000000000
+      internalID: -4999867463484823399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_117
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9277c7574fd4bb60800000000000000
+      internalID: 7761073555374568092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_118
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a787e682e493c7590800000000000000
+      internalID: -7675196657097607046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player Dust_119
+      rect:
+        serializedVersion: 2
+        x: 2708
+        y: 10.833328
+        width: 132.6
+        height: 134.16667
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10c1567d08569030800000000000000
+      internalID: 3501082575170027550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

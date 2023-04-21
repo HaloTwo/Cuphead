@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ad684fab71f3bfc4698b209f63a919b2
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Cuphead Vogue
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 89d89481bda583e408fda583aab5818b, type: 3}
+  - {fileID: 12800000, guid: 3c1db15230fc7a34eb0c250c4e374834, type: 3}
+  - {fileID: 12800000, guid: 8d5340fc6b6d46b4f9bf0c89c4acc586, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

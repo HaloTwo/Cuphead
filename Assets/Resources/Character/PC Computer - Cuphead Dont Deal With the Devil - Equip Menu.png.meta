@@ -1,0 +1,5124 @@
+fileFormatVersion: 2
+guid: 0e5c38643ddcf084788addd6373562e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 61911373897081414
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_0
+  - first:
+      213: 6176582130584228189
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_1
+  - first:
+      213: 4729272258470528368
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_2
+  - first:
+      213: -7266536172764246317
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_3
+  - first:
+      213: 6118984055594730676
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_4
+  - first:
+      213: -2313615989338348526
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_5
+  - first:
+      213: -4688625009988476389
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_6
+  - first:
+      213: 493759986104748984
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_7
+  - first:
+      213: 2288604814613760828
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_8
+  - first:
+      213: -309115967648223561
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_9
+  - first:
+      213: 1385813645670268342
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_10
+  - first:
+      213: -6485903218885131531
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_11
+  - first:
+      213: -4010713355269890698
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_12
+  - first:
+      213: -3626111493794822175
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_13
+  - first:
+      213: 1176508718153106810
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_14
+  - first:
+      213: -8930121879812840500
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_15
+  - first:
+      213: 4497377196372522247
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_16
+  - first:
+      213: -4500555527005144859
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_17
+  - first:
+      213: 4434153238547704663
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_18
+  - first:
+      213: -245439688005171226
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_19
+  - first:
+      213: 116627523852681635
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_20
+  - first:
+      213: -6987167417449094888
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_21
+  - first:
+      213: 8270028398906492367
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_22
+  - first:
+      213: 2651353577065423053
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_23
+  - first:
+      213: 4608532651309972357
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_24
+  - first:
+      213: -5548452960341862720
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_25
+  - first:
+      213: -4321855611539039531
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_26
+  - first:
+      213: 7611528070323151262
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_27
+  - first:
+      213: -4832250457496949644
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_28
+  - first:
+      213: 659868379318188135
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_29
+  - first:
+      213: 5329880498317083417
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_30
+  - first:
+      213: 4350397911771578568
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_31
+  - first:
+      213: -6554784068630721670
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_32
+  - first:
+      213: -772738283267174215
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_33
+  - first:
+      213: -3658823960628650300
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_34
+  - first:
+      213: -5480128610429141962
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_35
+  - first:
+      213: -2053557844455131373
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_36
+  - first:
+      213: 5703783193899468016
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_37
+  - first:
+      213: 2490623325047053202
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_38
+  - first:
+      213: -6160730892212145031
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_39
+  - first:
+      213: 5159860236192389840
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_40
+  - first:
+      213: 8496160949916530082
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_41
+  - first:
+      213: -2011334036513736675
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_42
+  - first:
+      213: 1772498372314307656
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_43
+  - first:
+      213: -7221814560263916801
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_44
+  - first:
+      213: 7794206170401375927
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_45
+  - first:
+      213: -7626742856914787728
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_46
+  - first:
+      213: -82039861955508092
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_47
+  - first:
+      213: 7170733469481122041
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_48
+  - first:
+      213: 4301562711726959252
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_49
+  - first:
+      213: 7524895555734929024
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_50
+  - first:
+      213: -9086649872099104038
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_51
+  - first:
+      213: 3317969333986183545
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_52
+  - first:
+      213: -661250596845499129
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_53
+  - first:
+      213: -2892560461766926823
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_54
+  - first:
+      213: 4032738591229076719
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_55
+  - first:
+      213: -6255827037118664288
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_56
+  - first:
+      213: -1097754415264644698
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_57
+  - first:
+      213: 8922588862864997037
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_58
+  - first:
+      213: 1734908445944315486
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_59
+  - first:
+      213: 3154774070199032602
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_60
+  - first:
+      213: 7370656708643616024
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_61
+  - first:
+      213: -649563915872440858
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_62
+  - first:
+      213: 6372023364881134477
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_63
+  - first:
+      213: 684688820730466235
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_64
+  - first:
+      213: 8951140129308785340
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_65
+  - first:
+      213: 8912233814761071706
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_66
+  - first:
+      213: -2619500514435344182
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_67
+  - first:
+      213: -7200825249366415705
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_68
+  - first:
+      213: 2346789598150457510
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_69
+  - first:
+      213: -2915412743200876052
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_70
+  - first:
+      213: -1595878347760804550
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_71
+  - first:
+      213: 2938199996432532838
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_72
+  - first:
+      213: 5629014327385069107
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_73
+  - first:
+      213: 1092953691393810747
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_74
+  - first:
+      213: -6659864483727128456
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_75
+  - first:
+      213: -508662822692605091
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_76
+  - first:
+      213: 111871056474913478
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_77
+  - first:
+      213: 5382053319811842467
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_78
+  - first:
+      213: 7788406464077835846
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_79
+  - first:
+      213: -6760149786622019526
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_80
+  - first:
+      213: -6872461196712250776
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_81
+  - first:
+      213: -617945941668151974
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_82
+  - first:
+      213: -1876692821557208556
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_83
+  - first:
+      213: 1825971898227165843
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_84
+  - first:
+      213: -5441504848290862728
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_85
+  - first:
+      213: 4010158133188925245
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_86
+  - first:
+      213: 4194178600024739908
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_87
+  - first:
+      213: 6813072757002472434
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_88
+  - first:
+      213: 8886658715810441122
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_89
+  - first:
+      213: -2761723693826435968
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_90
+  - first:
+      213: -1808730528453265018
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_91
+  - first:
+      213: 2368986779398053557
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_92
+  - first:
+      213: -6092182520850358413
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_93
+  - first:
+      213: 2303927570088498101
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_94
+  - first:
+      213: -5214247848738247279
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_95
+  - first:
+      213: 5011264250347062720
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_96
+  - first:
+      213: -4775521262048500735
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_97
+  - first:
+      213: -2097171956412998894
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_98
+  - first:
+      213: 1403113983258265114
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_99
+  - first:
+      213: 3531580449438578678
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_100
+  - first:
+      213: 4304688720446418306
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_101
+  - first:
+      213: 7824785361336816254
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_102
+  - first:
+      213: -8327913149813011969
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_103
+  - first:
+      213: -2421504454946836080
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_104
+  - first:
+      213: -5186806796327216801
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_105
+  - first:
+      213: -3659278700375363095
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_106
+  - first:
+      213: 8589740777654820069
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_107
+  - first:
+      213: -3288975025148160665
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_108
+  - first:
+      213: -1337553274840210375
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_109
+  - first:
+      213: 7253967740483082527
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_110
+  - first:
+      213: -6651419725083992557
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_111
+  - first:
+      213: 1317172018183898300
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_112
+  - first:
+      213: -8901475770554220223
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_113
+  - first:
+      213: 8784134180161213608
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_114
+  - first:
+      213: 3425485517151224596
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_115
+  - first:
+      213: -2178279991148634471
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_116
+  - first:
+      213: -8528426691168390793
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_117
+  - first:
+      213: -5970291357950670198
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_118
+  - first:
+      213: -4965560307626413744
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_119
+  - first:
+      213: -8503877682965839283
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_120
+  - first:
+      213: -4772730448651761132
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_121
+  - first:
+      213: 5493613151496519001
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_122
+  - first:
+      213: 585625091415830418
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_123
+  - first:
+      213: 168616092555989700
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_124
+  - first:
+      213: -612195081943606875
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_125
+  - first:
+      213: 6371405258409929082
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_126
+  - first:
+      213: 4243019907036023123
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_127
+  - first:
+      213: -1931540022064208094
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_128
+  - first:
+      213: 5933345298348073970
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_129
+  - first:
+      213: 7353116083198031462
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_130
+  - first:
+      213: -5576693474192663936
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_131
+  - first:
+      213: 2235690470360033806
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_132
+  - first:
+      213: -2687337067972790460
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_133
+  - first:
+      213: 972778810678025146
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_134
+  - first:
+      213: 7368079628935879782
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_135
+  - first:
+      213: 1367852898992450585
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_136
+  - first:
+      213: -4962159626700235198
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_137
+  - first:
+      213: -5305132643042623665
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_138
+  - first:
+      213: -7628692875991037346
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_139
+  - first:
+      213: -539309185883575880
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_140
+  - first:
+      213: -430590759863612491
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_141
+  - first:
+      213: -3802521079827547885
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_142
+  - first:
+      213: -4917730715325039099
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_143
+  - first:
+      213: 8594474543986754037
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_144
+  - first:
+      213: -3748005889466295730
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_145
+  - first:
+      213: -2333942663594702040
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_146
+  - first:
+      213: 1027395016042639254
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_147
+  - first:
+      213: 5350870812048380292
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_148
+  - first:
+      213: -106280583337351022
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_149
+  - first:
+      213: 6043242871897079127
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_150
+  - first:
+      213: 1328418011560855766
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_151
+  - first:
+      213: -1200758036786377531
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_152
+  - first:
+      213: 2273100645591577221
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_153
+  - first:
+      213: 5282798035280198498
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_154
+  - first:
+      213: 536515607281457668
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_155
+  - first:
+      213: -5035098709979452357
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_156
+  - first:
+      213: -594815366706211692
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_157
+  - first:
+      213: 7499804175463622021
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_158
+  - first:
+      213: -1458981160345596886
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_159
+  - first:
+      213: -8650857587608997907
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_160
+  - first:
+      213: 2342528930107377531
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_161
+  - first:
+      213: -3101166188102120504
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_162
+  - first:
+      213: -2912258490926232704
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_163
+  - first:
+      213: 4263195183430455430
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_164
+  - first:
+      213: -1639365429157423586
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_165
+  - first:
+      213: 2537788067856405302
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_166
+  - first:
+      213: 4796939952738968329
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_167
+  - first:
+      213: 2676700800483682438
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_168
+  - first:
+      213: -8382675351955636256
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_169
+  - first:
+      213: -1696469854034944603
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_170
+  - first:
+      213: -6459809919486878593
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_171
+  - first:
+      213: 1455765581942240249
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_172
+  - first:
+      213: 196017657451082166
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_173
+  - first:
+      213: -2398299725667665622
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_174
+  - first:
+      213: 8794855605576564622
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_175
+  - first:
+      213: 5330469988826391590
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_176
+  - first:
+      213: -9180503702180608462
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_177
+  - first:
+      213: -6332853155914174382
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_178
+  - first:
+      213: -2322308533689693199
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_179
+  - first:
+      213: 3404662311726507720
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_180
+  - first:
+      213: -4486903112934290518
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_181
+  - first:
+      213: -7537430665982672756
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_182
+  - first:
+      213: 5751639433522756028
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_183
+  - first:
+      213: 8578882409179835515
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_184
+  - first:
+      213: -1153419734226561252
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_185
+  - first:
+      213: 446043426067700597
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_186
+  - first:
+      213: -4894497758469588485
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_187
+  - first:
+      213: -8459452227107102662
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_188
+  - first:
+      213: -6229966193027033717
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_189
+  - first:
+      213: -8711706719764280114
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_190
+  - first:
+      213: 6983555750394209059
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_191
+  - first:
+      213: 1221140685236485241
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_192
+  - first:
+      213: -474947010116329473
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_193
+  - first:
+      213: -3594086320086420795
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_194
+  - first:
+      213: -349985343098806859
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_195
+  - first:
+      213: -1179566230208348082
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_196
+  - first:
+      213: 9081166968102985830
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_197
+  - first:
+      213: -2497640969299307418
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_198
+  - first:
+      213: 1413913725255569813
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_199
+  - first:
+      213: -8798113148197675720
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_200
+  - first:
+      213: 2232683788611357385
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_201
+  - first:
+      213: 7772175010182802731
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_202
+  - first:
+      213: 31302436606376814
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_203
+  - first:
+      213: 1833440899272934450
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_204
+  - first:
+      213: -2082257358902785312
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_205
+  - first:
+      213: 8782129491553437814
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_206
+  - first:
+      213: -2374637134521668309
+    second: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_207
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1561
+        width: 587
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64221b80114fbd000800000000000000
+      internalID: 61911373897081414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_1
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 897
+        width: 1182
+        height: 1326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d519f7b09b0a7b550800000000000000
+      internalID: 6176582130584228189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_2
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1562
+        width: 588
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075ce34ff00c1a140800000000000000
+      internalID: 4729272258470528368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 897
+        width: 588
+        height: 661
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de4cd2c9d3182b90800000000000000
+      internalID: -7266536172764246317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c00c249ffae450800000000000000
+      internalID: 6118984055594730676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214e2d8048264efd0800000000000000
+      internalID: -2313615989338348526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ef921568aeeeb0800000000000000
+      internalID: -4688625009988476389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_7
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb431067103ad600800000000000000
+      internalID: 493759986104748984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 823
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b4d4e04f1c2cf10800000000000000
+      internalID: 2288604814613760828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be2de94aacc5bbf0800000000000000
+      internalID: -309115967648223561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_10
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdb01b1b266b3310800000000000000
+      internalID: 1385813645670268342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_11
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 823
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f20aced2617df5a0800000000000000
+      internalID: -6485903218885131531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_12
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d193bf3751758c0800000000000000
+      internalID: -4010713355269890698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_13
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70660fec67dadc0800000000000000
+      internalID: -3626111493794822175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a758aac127cc35010800000000000000
+      internalID: 1176508718153106810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3efc0d675d11480800000000000000
+      internalID: -8930121879812840500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_16
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705f9b26bb4e96e30800000000000000
+      internalID: 4497377196372522247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_17
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 823
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8ffe8d790da81c0800000000000000
+      internalID: -4500555527005144859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_18
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 840
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ba84790e6498d30800000000000000
+      internalID: 4434153238547704663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_19
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e74ba677e5089cf0800000000000000
+      internalID: -245439688005171226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_20
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 798
+        width: 62
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c5427d185e9100800000000000000
+      internalID: 116627523852681635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_21
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81163c0e048980f90800000000000000
+      internalID: -6987167417449094888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_22
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5c637230b05c270800000000000000
+      internalID: 8270028398906492367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_23
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc022f6e7008bc420800000000000000
+      internalID: 2651353577065423053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_24
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bbe11870cc4ff30800000000000000
+      internalID: 4608532651309972357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_25
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6dbd5fd6feff2b0800000000000000
+      internalID: -5548452960341862720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_26
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dadfaf283fa504c0800000000000000
+      internalID: -4321855611539039531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_27
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91a68dc37491a960800000000000000
+      internalID: 7611528070323151262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_28
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cec2fafc560fcb0800000000000000
+      internalID: -4832250457496949644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_29
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768f5cb7bc2582900800000000000000
+      internalID: 659868379318188135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_30
+      rect:
+        serializedVersion: 2
+        x: 2069
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913c875031a87f940800000000000000
+      internalID: 5329880498317083417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_31
+      rect:
+        serializedVersion: 2
+        x: 2150
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c00fb2f9d7bf5c30800000000000000
+      internalID: 4350397911771578568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_32
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b40e94e9ab805a0800000000000000
+      internalID: -6554784068630721670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_33
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0d38120aea645f0800000000000000
+      internalID: -772738283267174215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_34
+      rect:
+        serializedVersion: 2
+        x: 2394
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce9a0b3efe393dc0800000000000000
+      internalID: -3658823960628650300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_35
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c7ae3501ca2f3b0800000000000000
+      internalID: -5480128610429141962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_36
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317f88b450c4083e0800000000000000
+      internalID: -2053557844455131373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_37
+      rect:
+        serializedVersion: 2
+        x: 2636
+        y: 822
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4883c4898e72f40800000000000000
+      internalID: 5703783193899468016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_38
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b5bbed7b8709220800000000000000
+      internalID: 2490623325047053202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_39
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 822
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9747becf4efa08aa0800000000000000
+      internalID: -6160730892212145031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_40
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 822
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da19e4fb818b9740800000000000000
+      internalID: 5159860236192389840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_41
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 817
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5f15e8e5d68e570800000000000000
+      internalID: 8496160949916530082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1832fca95e4614e0800000000000000
+      internalID: -2011334036513736675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 724
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c90c6e0ed299810800000000000000
+      internalID: 1772498372314307656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_44
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b9b59be5f6cb90800000000000000
+      internalID: -7221814560263916801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_45
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 704
+        width: 53
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b68eec67359a2c60800000000000000
+      internalID: 7794206170401375927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072a854a7cd582690800000000000000
+      internalID: -7626742856914787728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 721
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48848b22e298cdef0800000000000000
+      internalID: -82039861955508092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_48
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f83d6b2910938360800000000000000
+      internalID: 7170733469481122041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_49
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a2d83ee7832bb30800000000000000
+      internalID: 4301562711726959252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_50
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08efe7ba3accd6860800000000000000
+      internalID: 7524895555734929024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_51
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 724
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2f2f951cb5e180800000000000000
+      internalID: -9086649872099104038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_52
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 724
+        width: 66
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979c2e7a78bcb0e20800000000000000
+      internalID: 3317969333986183545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_53
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d428be514c2d6f0800000000000000
+      internalID: -661250596845499129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_54
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91eda01e59f8bd7d0800000000000000
+      internalID: -2892560461766926823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_55
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e732e16a27f730800000000000000
+      internalID: 4032738591229076719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_56
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 723
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1f14c5476de29a0800000000000000
+      internalID: -6255827037118664288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_57
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 723
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c88bec2ef3c0f0800000000000000
+      internalID: -1097754415264644698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_58
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 723
+        width: 66
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daabceffb4763db70800000000000000
+      internalID: 8922588862864997037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_59
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 721
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ef5562a02a31810800000000000000
+      internalID: 1734908445944315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_60
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 721
+        width: 68
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b93d85d4208cb20800000000000000
+      internalID: 3154774070199032602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_61
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8157d00a935d94660800000000000000
+      internalID: 7370656708643616024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_62
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ede28f5f094cf6f0800000000000000
+      internalID: -649563915872440858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_63
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83ba3c6d79fd6850800000000000000
+      internalID: 6372023364881134477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_64
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf0255dad0808900800000000000000
+      internalID: 684688820730466235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_65
+      rect:
+        serializedVersion: 2
+        x: 1866
+        y: 725
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbab13eb586d83c70800000000000000
+      internalID: 8951140129308785340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_66
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 725
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ee0c7f6d9eab70800000000000000
+      internalID: 8912233814761071706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_67
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 725
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d02c292aa5abd0800000000000000
+      internalID: -2619500514435344182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_68
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6e9d95697811c90800000000000000
+      internalID: -7200825249366415705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_69
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 725
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8f658a4b8719020800000000000000
+      internalID: 2346789598150457510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_70
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce95ddb7e8f5a87d0800000000000000
+      internalID: -2915412743200876052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_71
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 757
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ddaf8191d4ad9e0800000000000000
+      internalID: -1595878347760804550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_72
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 781
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6654a6a545596c820800000000000000
+      internalID: 2938199996432532838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_73
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 761
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3361f5bf4b64e1e40800000000000000
+      internalID: 5629014327385069107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_74
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 772
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31ea737793fa2f00800000000000000
+      internalID: 1092953691393810747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_75
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 761
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878443b99886393a0800000000000000
+      internalID: -6659864483727128456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_76
+      rect:
+        serializedVersion: 2
+        x: 2513
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53b5f69bddd0f8f0800000000000000
+      internalID: -508662822692605091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_77
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 724
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cab5d512227d8100800000000000000
+      internalID: 111871056474913478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_78
+      rect:
+        serializedVersion: 2
+        x: 2675
+        y: 724
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1c891aaf4e0ba40800000000000000
+      internalID: 5382053319811842467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_79
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 725
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e27b11a6af51c60800000000000000
+      internalID: 7788406464077835846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_80
+      rect:
+        serializedVersion: 2
+        x: 2837
+        y: 725
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3836fbf59f1f22a0800000000000000
+      internalID: -6760149786622019526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_81
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 761
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8627f4514fc10a0a0800000000000000
+      internalID: -6872461196712250776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_82
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 761
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db978a07d9c67f0800000000000000
+      internalID: -617945941668151974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_83
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 761
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a9e8a62d5a4f5e0800000000000000
+      internalID: -1876692821557208556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_84
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 757
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0dab54c7275910800000000000000
+      internalID: 1825971898227165843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_85
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 725
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879ae0abb24eb74b0800000000000000
+      internalID: -5441504848290862728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_86
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 726
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d379edd4391f6a730800000000000000
+      internalID: 4010158133188925245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_87
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 725
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440150b0737b43a30800000000000000
+      internalID: 4194178600024739908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_88
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 726
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb06064395ec8e50800000000000000
+      internalID: 6813072757002472434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_89
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 716
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7a20cb401c35b70800000000000000
+      internalID: 8886658715810441122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_90
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 716
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08412b5cee26ca9d0800000000000000
+      internalID: -2761723693826435968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_91
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 716
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689732dda2916e6e0800000000000000
+      internalID: -1808730528453265018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 1610
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be1e97ace450e020800000000000000
+      internalID: 2368986779398053557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_93
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 672
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fded96648347ba0800000000000000
+      internalID: -6092182520850358413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_94
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 690
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b39a531be139ff10800000000000000
+      internalID: 2303927570088498101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_95
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 690
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dac15353543a7b0800000000000000
+      internalID: -5214247848738247279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_96
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 671
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c50d8de8469b8540800000000000000
+      internalID: 5011264250347062720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_97
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 690
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1042646c6b0f9bdb0800000000000000
+      internalID: -4775521262048500735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_98
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 671
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b9719873955e2e0800000000000000
+      internalID: -2097171956412998894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_99
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 692
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a160e77dbbcd87310800000000000000
+      internalID: 1403113983258265114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_100
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 690
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7308825b1b20130800000000000000
+      internalID: 3531580449438578678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_101
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 685
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28de6d285935dbb30800000000000000
+      internalID: 4304688720446418306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_102
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 693
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72582224d8379c60800000000000000
+      internalID: 7824785361336816254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_103
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 692
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff947190d1f4d6c80800000000000000
+      internalID: -8327913149813011969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_104
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 672
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0913ed42786156ed0800000000000000
+      internalID: -2421504454946836080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_105
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 692
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59955a13b2c408b0800000000000000
+      internalID: -5186806796327216801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_106
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 669
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e139f1e861a73dc0800000000000000
+      internalID: -3659278700375363095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_107
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 673
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec9dc41ab3e43770800000000000000
+      internalID: 8589740777654820069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_108
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 667
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76599eee3a63b52d0800000000000000
+      internalID: -3288975025148160665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_109
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 667
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9342df8126e007de0800000000000000
+      internalID: -1337553274840210375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_110
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 670
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1913af0a354ba460800000000000000
+      internalID: 7253967740483082527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_111
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 670
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e9752300961b3a0800000000000000
+      internalID: -6651419725083992557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_112
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 667
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48febc8f8874210800000000000000
+      internalID: 1317172018183898300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_113
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 681
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1418e5fd2fa977480800000000000000
+      internalID: -8901475770554220223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_114
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 681
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a450eb1f7387e970800000000000000
+      internalID: 8784134180161213608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_115
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 668
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4134b09cde4c98f20800000000000000
+      internalID: 3425485517151224596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_116
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 683
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e9e3a93e135c1e0800000000000000
+      internalID: -2178279991148634471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_117
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 657
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b2f32c11f4a980800000000000000
+      internalID: -8528426691168390793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_118
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 667
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a04c354a3452da0800000000000000
+      internalID: -5970291357950670198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_119
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 667
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051f5297539c61bb0800000000000000
+      internalID: -4965560307626413744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_120
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 670
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4203758d482cf980800000000000000
+      internalID: -8503877682965839283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_121
+      rect:
+        serializedVersion: 2
+        x: 2130
+        y: 667
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41acb67a1fad3cdb0800000000000000
+      internalID: -4772730448651761132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_122
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 641
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d3d5c0e0c3d3c40800000000000000
+      internalID: 5493613151496519001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_123
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 637
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f6569faee802800800000000000000
+      internalID: 585625091415830418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_124
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 635
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2d63c517b075200800000000000000
+      internalID: 168616092555989700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_125
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 635
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9928701db0187f0800000000000000
+      internalID: -612195081943606875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_126
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 635
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79649b4357cb6850800000000000000
+      internalID: 6371405258409929082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_127
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 635
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3590bcdff1c32ea30800000000000000
+      internalID: 4243019907036023123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_128
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 643
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227a96b659ac135e0800000000000000
+      internalID: -1931540022064208094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_129
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 640
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f365c5dc1a775250800000000000000
+      internalID: 5933345298348073970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_130
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 635
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fa338e148b0660800000000000000
+      internalID: 7353116083198031462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_131
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 651
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ad181f4da9b92b0800000000000000
+      internalID: -5576693474192663936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_132
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 636
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a298933a4c60f10800000000000000
+      internalID: 2235690470360033806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_133
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 637
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447fdbfbc29a4bad0800000000000000
+      internalID: -2687337067972790460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_134
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 635
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb9d7f9c21008d00800000000000000
+      internalID: 972778810678025146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_135
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 635
+        width: 27
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cd38f726da04660800000000000000
+      internalID: 7368079628935879782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_136
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 93
+        width: 598
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cee65e6f69bf210800000000000000
+      internalID: 1367852898992450585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_137
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 545
+        width: 523
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5fb33c1ed22bb0800000000000000
+      internalID: -4962159626700235198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_138
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 403
+        width: 607
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f7d1d08f16066b0800000000000000
+      internalID: -5305132643042623665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_139
+      rect:
+        serializedVersion: 2
+        x: 2643
+        y: 540
+        width: 111
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a40027f30712690800000000000000
+      internalID: -7628692875991037346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_140
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 540
+        width: 193
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9ed4f172df388f0800000000000000
+      internalID: -539309185883575880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_141
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 185
+        width: 110
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb83ca3cfb360af0800000000000000
+      internalID: -430590759863612491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_142
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 94
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319b1f9793bba3bc0800000000000000
+      internalID: -3802521079827547885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_143
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 112
+        width: 77
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef50c38f5b0cbb0800000000000000
+      internalID: -4917730715325039099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_144
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 82
+        width: 240
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1c771ff05b54770800000000000000
+      internalID: 8594474543986754037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_145
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 87
+        width: 53
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a1a4650886cfbc0800000000000000
+      internalID: -3748005889466295730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_146
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 165
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b0f42638b2c9fd0800000000000000
+      internalID: -2333942663594702040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_147
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 167
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f6a3fd25a024e00800000000000000
+      internalID: 1027395016042639254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_148
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 139
+        width: 443
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481562747ac124a40800000000000000
+      internalID: 5350870812048380292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_149
+      rect:
+        serializedVersion: 2
+        x: 1735
+        y: 165
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298e7af5f5a668ef0800000000000000
+      internalID: -106280583337351022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_150
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 152
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d36de9f59edd350800000000000000
+      internalID: 6043242871897079127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_151
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 219
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8c05ca42d7f6210800000000000000
+      internalID: 1328418011560855766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_152
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 165
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc072c6dec065fe0800000000000000
+      internalID: -1200758036786377531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_153
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 152
+        width: 235
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58272376efcab8f10800000000000000
+      internalID: 2273100645591577221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_154
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 187
+        width: 158
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bf109d2d4405940800000000000000
+      internalID: 5282798035280198498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_155
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 186
+        width: 105
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ad67c2a16127700800000000000000
+      internalID: 536515607281457668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_156
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 187
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ca5ae766cbf1ab0800000000000000
+      internalID: -5035098709979452357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_157
+      rect:
+        serializedVersion: 2
+        x: 2565
+        y: 180
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4945880539aceb7f0800000000000000
+      internalID: -594815366706211692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_158
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 178
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58520837928a41860800000000000000
+      internalID: 7499804175463622021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_159
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 181
+        width: 118
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c0d9b5d58a0cbe0800000000000000
+      internalID: -1458981160345596886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_160
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 109
+        width: 104
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa218bbdaf1f780800000000000000
+      internalID: -8650857587608997907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_161
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 158
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77402396a5528020800000000000000
+      internalID: 2342528930107377531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_162
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 176
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb88b858c176f4d0800000000000000
+      internalID: -3101166188102120504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_163
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 176
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b0a3215549597d0800000000000000
+      internalID: -2912258490926232704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_164
+      rect:
+        serializedVersion: 2
+        x: 2731
+        y: 151
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68057849e69e92b30800000000000000
+      internalID: 4263195183430455430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_165
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 151
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e161402f3ddcf39e0800000000000000
+      internalID: -1639365429157423586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_166
+      rect:
+        serializedVersion: 2
+        x: 2253
+        y: 154
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6335ecb4dc8083320800000000000000
+      internalID: 2537788067856405302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_167
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 35
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a2e3c877229240800000000000000
+      internalID: 4796939952738968329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_168
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 35
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68865de323d852520800000000000000
+      internalID: 2676700800483682438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_169
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 41
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff2434e21caab80800000000000000
+      internalID: -8382675351955636256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_170
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 41
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad9612f7ade478e0800000000000000
+      internalID: -1696469854034944603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_171
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 41
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c90709a152a56a0800000000000000
+      internalID: -6459809919486878593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_172
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 40
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f338e3751be33410800000000000000
+      internalID: 1455765581942240249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_173
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 40
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1731a550568b200800000000000000
+      internalID: 196017657451082166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_174
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 40
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2979a23b1787bed0800000000000000
+      internalID: -2398299725667665622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_175
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 41
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f7e3d739a9d0a70800000000000000
+      internalID: 8794855605576564622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_176
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 41
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a0e97632a9f940800000000000000
+      internalID: 5330469988826391590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_177
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 40
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236cd54f58c489080800000000000000
+      internalID: -9180503702180608462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_178
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 46
+        width: 94
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250360b8b9f2d18a0800000000000000
+      internalID: -6332853155914174382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_179
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 46
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb419651b085cfd0800000000000000
+      internalID: -2322308533689693199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_180
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 46
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c66e96755acf3f20800000000000000
+      internalID: 3404662311726507720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_181
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 46
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab05f334615bb1c0800000000000000
+      internalID: -4486903112934290518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_182
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 46
+        width: 92
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8087fa8ebaa56790800000000000000
+      internalID: -7537430665982672756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_183
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 43
+        width: 88
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9b04f579de1df40800000000000000
+      internalID: 5751639433522756028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_184
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 0
+        width: 124
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ce20929105e0770800000000000000
+      internalID: 8578882409179835515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_185
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 46
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c171080ecda3effe0800000000000000
+      internalID: -1153419734226561252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_186
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 24
+        width: 168
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd92df12aa03600800000000000000
+      internalID: 446043426067700597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_187
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 63
+        width: 97
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf979788830431cb0800000000000000
+      internalID: -4894497758469588485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_188
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 63
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30e4e0050df99a80800000000000000
+      internalID: -8459452227107102662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_189
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 63
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b855ee551c6ba89a0800000000000000
+      internalID: -6229966193027033717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_190
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc011d15ecc91780800000000000000
+      internalID: -8711706719764280114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_191
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 63
+        width: 83
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 323226b54f29ae060800000000000000
+      internalID: 6983555750394209059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_192
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 63
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c3c4cbbfc52f010800000000000000
+      internalID: 1221140685236485241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_193
+      rect:
+        serializedVersion: 2
+        x: 2009
+        y: 57
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffd1eee536a869f0800000000000000
+      internalID: -474947010116329473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_194
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 57
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2782fb88d3f1ec0800000000000000
+      internalID: -3594086320086420795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_195
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 57
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd900c4f2a942bf0800000000000000
+      internalID: -349985343098806859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_196
+      rect:
+        serializedVersion: 2
+        x: 2108
+        y: 53
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40826363c651afe0800000000000000
+      internalID: -1179566230208348082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_197
+      rect:
+        serializedVersion: 2
+        x: 2161
+        y: 64
+        width: 81
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6602acf4e39c60e70800000000000000
+      internalID: 9081166968102985830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_198
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 64
+        width: 82
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664d37085c8965dd0800000000000000
+      internalID: -2497640969299307418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_199
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 0
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59158e8ba0b3f9310800000000000000
+      internalID: 1413913725255569813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_200
+      rect:
+        serializedVersion: 2
+        x: 2371
+        y: 22
+        width: 152
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ddbf3c4b2d6e580800000000000000
+      internalID: -8798113148197675720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_201
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 77
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca04f393161cfe10800000000000000
+      internalID: 2232683788611357385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_202
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 51
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d2d163eff4cdb60800000000000000
+      internalID: 7772175010182802731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_203
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 11
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6bf68676653f6000800000000000000
+      internalID: 31302436606376814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_204
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 11
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23406dda8c0b17910800000000000000
+      internalID: 1833440899272934450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_205
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 9
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea08afd6f55a13e0800000000000000
+      internalID: -2082257358902785312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_206
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 25
+        width: 84
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678468b2e3460e970800000000000000
+      internalID: 8782129491553437814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Cuphead Dont Deal With the Devil - Equip Menu_207
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 9
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d62668b189b0fd0800000000000000
+      internalID: -2374637134521668309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

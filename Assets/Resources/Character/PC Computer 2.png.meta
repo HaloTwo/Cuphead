@@ -1,0 +1,2556 @@
+fileFormatVersion: 2
+guid: aa3b30c751c0de14588bfd18ccc54117
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4209456161001429129
+    second: PC Computer 2_0
+  - first:
+      213: -6192313400930417970
+    second: PC Computer 2_1
+  - first:
+      213: -3548228051039391386
+    second: PC Computer 2_2
+  - first:
+      213: 4263908679309008155
+    second: PC Computer 2_3
+  - first:
+      213: 2948320745520712579
+    second: PC Computer 2_4
+  - first:
+      213: -5634176821624369430
+    second: PC Computer 2_5
+  - first:
+      213: -5744948812252429339
+    second: PC Computer 2_6
+  - first:
+      213: 4095646801936696816
+    second: PC Computer 2_7
+  - first:
+      213: 7173387768176065314
+    second: PC Computer 2_8
+  - first:
+      213: 6452291899235690057
+    second: PC Computer 2_9
+  - first:
+      213: 7042277539658166880
+    second: PC Computer 2_10
+  - first:
+      213: 2040787203307801427
+    second: PC Computer 2_11
+  - first:
+      213: 2163347175831229280
+    second: PC Computer 2_12
+  - first:
+      213: 4765130433892741686
+    second: PC Computer 2_13
+  - first:
+      213: 1542512673817706512
+    second: PC Computer 2_14
+  - first:
+      213: -3852289827125869178
+    second: PC Computer 2_15
+  - first:
+      213: -4661913714372555041
+    second: PC Computer 2_16
+  - first:
+      213: 5087717229763546505
+    second: PC Computer 2_17
+  - first:
+      213: -4004701597398280713
+    second: PC Computer 2_18
+  - first:
+      213: -7142884399764577566
+    second: PC Computer 2_19
+  - first:
+      213: -8961581909956395951
+    second: PC Computer 2_20
+  - first:
+      213: 4179504286685453766
+    second: PC Computer 2_21
+  - first:
+      213: -1425931892249415082
+    second: PC Computer 2_22
+  - first:
+      213: -2627319171859524268
+    second: PC Computer 2_23
+  - first:
+      213: -2697843165945914251
+    second: PC Computer 2_24
+  - first:
+      213: 1423547005772706845
+    second: PC Computer 2_25
+  - first:
+      213: -7963688373361338556
+    second: PC Computer 2_26
+  - first:
+      213: 7348934164318828286
+    second: PC Computer 2_27
+  - first:
+      213: 9077802656521578145
+    second: PC Computer 2_28
+  - first:
+      213: 3145335957237199708
+    second: PC Computer 2_29
+  - first:
+      213: -3881381763364007456
+    second: PC Computer 2_30
+  - first:
+      213: 1444641294101109786
+    second: PC Computer 2_31
+  - first:
+      213: 186944928690377334
+    second: PC Computer 2_32
+  - first:
+      213: -3256980530772518956
+    second: PC Computer 2_33
+  - first:
+      213: -4649090772777355491
+    second: PC Computer 2_34
+  - first:
+      213: -6468841338591498915
+    second: PC Computer 2_35
+  - first:
+      213: 1653514570492246561
+    second: PC Computer 2_36
+  - first:
+      213: -2913488452167288238
+    second: PC Computer 2_37
+  - first:
+      213: 8148847992763981352
+    second: PC Computer 2_38
+  - first:
+      213: 7729366793304307438
+    second: PC Computer 2_39
+  - first:
+      213: 8471151593102357083
+    second: PC Computer 2_40
+  - first:
+      213: -2522383681286545777
+    second: PC Computer 2_41
+  - first:
+      213: 1044703810146782938
+    second: PC Computer 2_42
+  - first:
+      213: -4977176205129914903
+    second: PC Computer 2_43
+  - first:
+      213: -790800613562977575
+    second: PC Computer 2_44
+  - first:
+      213: 1063478844235722938
+    second: PC Computer 2_45
+  - first:
+      213: 7674425213551967137
+    second: PC Computer 2_46
+  - first:
+      213: -3487166501834775557
+    second: PC Computer 2_47
+  - first:
+      213: 5039127177695557061
+    second: PC Computer 2_48
+  - first:
+      213: -235472771129600559
+    second: PC Computer 2_49
+  - first:
+      213: -6088660372936812904
+    second: PC Computer 2_50
+  - first:
+      213: -968292685172634495
+    second: PC Computer 2_51
+  - first:
+      213: -688862754760953583
+    second: PC Computer 2_52
+  - first:
+      213: 6990742405864547316
+    second: PC Computer 2_53
+  - first:
+      213: -2666439847922512523
+    second: PC Computer 2_54
+  - first:
+      213: -5063269873883189162
+    second: PC Computer 2_55
+  - first:
+      213: 1541932231014418420
+    second: PC Computer 2_56
+  - first:
+      213: 1074050084684874556
+    second: PC Computer 2_57
+  - first:
+      213: -7240361948769558687
+    second: PC Computer 2_58
+  - first:
+      213: 1339170764200978340
+    second: PC Computer 2_59
+  - first:
+      213: 8962491845663910254
+    second: PC Computer 2_60
+  - first:
+      213: 183400484898102925
+    second: PC Computer 2_61
+  - first:
+      213: -4617028853426675049
+    second: PC Computer 2_62
+  - first:
+      213: -1214903895007050538
+    second: PC Computer 2_63
+  - first:
+      213: 5413691518919469475
+    second: PC Computer 2_64
+  - first:
+      213: 7947093034347219691
+    second: PC Computer 2_65
+  - first:
+      213: 614759848976801031
+    second: PC Computer 2_66
+  - first:
+      213: 2183927004216774516
+    second: PC Computer 2_67
+  - first:
+      213: -1091082595805603152
+    second: PC Computer 2_68
+  - first:
+      213: -3509667510383466585
+    second: PC Computer 2_69
+  - first:
+      213: -548553432536665276
+    second: PC Computer 2_70
+  - first:
+      213: -4020448771872055306
+    second: PC Computer 2_71
+  - first:
+      213: 3318523078521841028
+    second: PC Computer 2_72
+  - first:
+      213: -3638393988280998524
+    second: PC Computer 2_73
+  - first:
+      213: -6113754769395466414
+    second: PC Computer 2_74
+  - first:
+      213: 2071832546116885640
+    second: PC Computer 2_75
+  - first:
+      213: -796958641641107669
+    second: PC Computer 2_76
+  - first:
+      213: -5011701434920219685
+    second: PC Computer 2_77
+  - first:
+      213: -1250582566340034024
+    second: PC Computer 2_78
+  - first:
+      213: -997890185729094244
+    second: PC Computer 2_79
+  - first:
+      213: 2994782379446500754
+    second: PC Computer 2_80
+  - first:
+      213: -4971560054395359497
+    second: PC Computer 2_81
+  - first:
+      213: 5014165817180761153
+    second: PC Computer 2_82
+  - first:
+      213: 6337005737269294823
+    second: PC Computer 2_83
+  - first:
+      213: 8063069750058897541
+    second: PC Computer 2_84
+  - first:
+      213: -361964606301431105
+    second: PC Computer 2_85
+  - first:
+      213: 8211986203260081790
+    second: PC Computer 2_86
+  - first:
+      213: -7338416815174016080
+    second: PC Computer 2_87
+  - first:
+      213: -3209004562286896785
+    second: PC Computer 2_88
+  - first:
+      213: -4666547997024527980
+    second: PC Computer 2_89
+  - first:
+      213: -3579025599201013325
+    second: PC Computer 2_90
+  - first:
+      213: -1005710376407055563
+    second: PC Computer 2_91
+  - first:
+      213: -3521968265736265244
+    second: PC Computer 2_92
+  - first:
+      213: 4717423056073636714
+    second: PC Computer 2_93
+  - first:
+      213: -4195361156492583606
+    second: PC Computer 2_94
+  - first:
+      213: 4706177876435496564
+    second: PC Computer 2_95
+  - first:
+      213: -6276730443550456129
+    second: PC Computer 2_96
+  - first:
+      213: 2076699228629025897
+    second: PC Computer 2_97
+  - first:
+      213: -7039062161450325211
+    second: PC Computer 2_98
+  - first:
+      213: -2816746461663521261
+    second: PC Computer 2_99
+  - first:
+      213: -246734039448999284
+    second: PC Computer 2_100
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer 2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 802
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772ee99ce10595c0800000000000000
+      internalID: -4209456161001429129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 801
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2c6a725cb701aa0800000000000000
+      internalID: -6192313400930417970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 800
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66178bb036922cec0800000000000000
+      internalID: -3548228051039391386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 803
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d1be84a527c2b30800000000000000
+      internalID: 4263908679309008155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_4
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 804
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b4da0e81a8ae820800000000000000
+      internalID: 2948320745520712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 806
+        width: 64
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee075928026fc1b0800000000000000
+      internalID: -5634176821624369430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_6
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 804
+        width: 63
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e344e84e77d540b0800000000000000
+      internalID: -5744948812252429339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 799
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5c6e21119a6d830800000000000000
+      internalID: 4095646801936696816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_8
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 800
+        width: 53
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b344e3b2efc8360800000000000000
+      internalID: 7173387768176065314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_9
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 802
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946e211fb452b8950800000000000000
+      internalID: 6452291899235690057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_10
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 804
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06279095c123bb160800000000000000
+      internalID: 7042277539658166880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_11
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 807
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b035b1625525c10800000000000000
+      internalID: 2040787203307801427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_12
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 809
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063d3456bc0c50e10800000000000000
+      internalID: 2163347175831229280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_13
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 809
+        width: 53
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632749402e4212240800000000000000
+      internalID: 4765130433892741686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_14
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 809
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0104170ba1b186510800000000000000
+      internalID: 1542512673817706512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_15
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 809
+        width: 52
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685cf4200dae98ac0800000000000000
+      internalID: -3852289827125869178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_16
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 688
+        width: 62
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4d493d2e8d4fb0800000000000000
+      internalID: -4661913714372555041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 688
+        width: 64
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dc0b55dd33b9640800000000000000
+      internalID: 5087717229763546505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_18
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 688
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5d2af6d117c68c0800000000000000
+      internalID: -4004701597398280713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_19
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 690
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26a58ab706fdc90800000000000000
+      internalID: -7142884399764577566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 690
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c7b7fbbb012a380800000000000000
+      internalID: -8961581909956395951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 693
+        width: 52
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cddb193105900a30800000000000000
+      internalID: 4179504286685453766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_22
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 691
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b298bf72163ce0800000000000000
+      internalID: -1425931892249415082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 689
+        width: 64
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4555db12223e98bd0800000000000000
+      internalID: -2627319171859524268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_24
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 689
+        width: 60
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c14123fe55f8ad0800000000000000
+      internalID: -2697843165945914251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_25
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 689
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d143720a57471c310800000000000000
+      internalID: 1423547005772706845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_26
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 694
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44793eb2e9b4b7190800000000000000
+      internalID: -7963688373361338556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_27
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 692
+        width: 52
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6b4f5afa8acf560800000000000000
+      internalID: 7348934164318828286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_28
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 694
+        width: 57
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e01b7b65dafd70800000000000000
+      internalID: 9077802656521578145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_29
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 693
+        width: 56
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53f26e636a76ab20800000000000000
+      internalID: 3145335957237199708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_30
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 694
+        width: 54
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e15205c9df822ac0800000000000000
+      internalID: -3881381763364007456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_31
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cd1ca5a956c0410800000000000000
+      internalID: 1444641294101109786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_32
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67296231c69289200800000000000000
+      internalID: 186944928690377334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_33
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 578
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7d0f6a671ecc2d0800000000000000
+      internalID: -3256980530772518956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_34
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 578
+        width: 60
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d173f08f29c1b7fb0800000000000000
+      internalID: -4649090772777355491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_35
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 578
+        width: 61
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d24e0731f0a36a0800000000000000
+      internalID: -6468841338591498915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_36
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 576
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a7f1dbdb672f610800000000000000
+      internalID: 1653514570492246561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 466
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25abd5760b53197d0800000000000000
+      internalID: -2913488452167288238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_38
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 465
+        width: 63
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1a513316861170800000000000000
+      internalID: 8148847992763981352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 465
+        width: 64
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee67a95852a344b60800000000000000
+      internalID: 7729366793304307438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_40
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 464
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b959ed739f8570800000000000000
+      internalID: 8471151593102357083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_41
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 464
+        width: 61
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5ca1f761befcd0800000000000000
+      internalID: -2522383681286545777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_42
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 466
+        width: 59
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adecb4b84988f7e00800000000000000
+      internalID: 1044703810146782938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_43
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 469
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e564b49c948deab0800000000000000
+      internalID: -4977176205129914903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_44
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 468
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2fa6428038605f0800000000000000
+      internalID: -790800613562977575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_45
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 466
+        width: 60
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab030d0df5c32ce00800000000000000
+      internalID: 1063478844235722938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_46
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 466
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abf0152219018a60800000000000000
+      internalID: 7674425213551967137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_47
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 466
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32f79da881b9fc0800000000000000
+      internalID: -3487166501834775557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_48
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 465
+        width: 62
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c57f8c38739ee540800000000000000
+      internalID: 5039127177695557061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_49
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 465
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51b8223ce6bbcf0800000000000000
+      internalID: -235472771129600559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_50
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 464
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8969a1166abb08ba0800000000000000
+      internalID: -6088660372936812904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 349
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18c0daddeeeef82f0800000000000000
+      internalID: -968292685172634495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_52
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 348
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111f97b69faa076f0800000000000000
+      internalID: -688862754760953583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_53
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 349
+        width: 59
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3e0d9fd2b140160800000000000000
+      internalID: 6990742405864547316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_54
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 347
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc1a1f517eefad0800000000000000
+      internalID: -2666439847922512523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_55
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 348
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650714540e6abb9b0800000000000000
+      internalID: -5063269873883189162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_56
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 349
+        width: 62
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f70751d13b066510800000000000000
+      internalID: 1541932231014418420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_57
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 347
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ce988cdac7ee00800000000000000
+      internalID: 1074050084684874556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_58
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 345
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd55e2b21158b90800000000000000
+      internalID: -7240361948769558687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_59
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 345
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7a9cdf6b0b59210800000000000000
+      internalID: 1339170764200978340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_60
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 345
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e12b29da216c70800000000000000
+      internalID: 8962491845663910254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_61
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 347
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e5cf1f4c19b8200800000000000000
+      internalID: 183400484898102925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_62
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 348
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79226c948b40defb0800000000000000
+      internalID: -4617028853426675049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_63
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 346
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4cdd5285bc32fe0800000000000000
+      internalID: -1214903895007050538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_64
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 346
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96db4e0cb412b40800000000000000
+      internalID: 5413691518919469475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_65
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 346
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea4f3d520fb94e60800000000000000
+      internalID: 7947093034347219691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_66
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 346
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d5f6453d0188800800000000000000
+      internalID: 614759848976801031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_67
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 235
+        width: 51
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f49b51a0ede4e10800000000000000
+      internalID: 2183927004216774516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_68
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 235
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba5560f822bbd0f0800000000000000
+      internalID: -1091082595805603152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_69
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 235
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72ddb8ef72b4fc0800000000000000
+      internalID: -3509667510383466585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_70
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 235
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443b4593f852368f0800000000000000
+      internalID: -548553432536665276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_71
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 236
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff19eaa42f7438c0800000000000000
+      internalID: -4020448771872055306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_72
+      rect:
+        serializedVersion: 2
+        x: 1262
+        y: 235
+        width: 52
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ea3a5823cd0e20800000000000000
+      internalID: 3318523078521841028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_73
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 233
+        width: 57
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4852897d1f3d18dc0800000000000000
+      internalID: -3638393988280998524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_74
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 235
+        width: 52
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f3556ed64972ba0800000000000000
+      internalID: -6113754769395466414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_75
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 235
+        width: 49
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd36149b0a0cc10800000000000000
+      internalID: 2071832546116885640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_76
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 123
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fcd408652a0f4f0800000000000000
+      internalID: -796958641641107669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_77
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 123
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc34b191cd27ab0800000000000000
+      internalID: -5011701434920219685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 120
+        width: 53
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812810328c905aee0800000000000000
+      internalID: -1250582566340034024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_79
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 117
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dc4c2c928c622f0800000000000000
+      internalID: -997890185729094244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_80
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 118
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29df18205ba9f8920800000000000000
+      internalID: 2994782379446500754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_81
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 119
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe2e329878710bb0800000000000000
+      internalID: -4971560054395359497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_82
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 121
+        width: 56
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c27f99e35e59540800000000000000
+      internalID: 5014165817180761153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_83
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 123
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e67c85a42191f750800000000000000
+      internalID: 6337005737269294823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_84
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 125
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580557bb737c5ef60800000000000000
+      internalID: 8063069750058897541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_85
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 121
+        width: 58
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba932cbb1b0afaf0800000000000000
+      internalID: -361964606301431105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_86
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 119
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76d9b161f5d6f170800000000000000
+      internalID: 8211986203260081790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_87
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 120
+        width: 57
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3acc589c4b82a90800000000000000
+      internalID: -7338416815174016080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_88
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 124
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6918464a535773d0800000000000000
+      internalID: -3209004562286896785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_89
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 50
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499da0632571d3fb0800000000000000
+      internalID: -4666547997024527980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_90
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 48
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b118951e2fb45ec0800000000000000
+      internalID: -3579025599201013325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_91
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533455bbdbffa02f0800000000000000
+      internalID: -1005710376407055563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_92
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 8
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e16792c5847f1fc0800000000000000
+      internalID: -3521968265736265244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_93
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 12
+        width: 100
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bb1888647a77140800000000000000
+      internalID: 4717423056073636714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_94
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 13
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d99c2914517c5c0800000000000000
+      internalID: -4195361156492583606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_95
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 4
+        width: 85
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e6dbe18d3bf4140800000000000000
+      internalID: 4706177876435496564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_96
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 7
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68b49cae294e8a0800000000000000
+      internalID: -6276730443550456129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_97
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 7
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964c2c312fae1dc10800000000000000
+      internalID: 2076699228629025897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_98
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 8
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b2cda324a305e90800000000000000
+      internalID: -7039062161450325211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_99
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 10
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31615325408e8e8d0800000000000000
+      internalID: -2816746461663521261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer 2_100
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 6
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a25a8c2bc639cf0800000000000000
+      internalID: -246734039448999284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
