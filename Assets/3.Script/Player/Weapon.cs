@@ -4,66 +4,78 @@ using UnityEngine;
 
 public class Weapon : MonoBehaviour
 {
-    [SerializeField] private GameObject BulletSpawner;
+    [SerializeField] private PlayerMovement player;
     [SerializeField] private GameObject Bullet;
     [SerializeField] private GameObject BigBullet;
     [SerializeField] private Animator animator;
+    [SerializeField] private AudioSource Bulletaudio;
     [SerializeField] private float Attack_Rate = 0.3f;
 
+    public AudioClip bulletClips;
+    public AudioClip BigBulletCilp;
+
     [SerializeField]
-    private Transform player;
+    private Transform player_location;
     //private PlayerMovement player;
 
     Vector3 Direction = Vector3.right;
 
+
+
+    private void Awake()
+    {
+        GameObject.FindGameObjectWithTag("Player").TryGetComponent(out player);
+        GameObject.FindGameObjectWithTag("Player").TryGetComponent(out player_location);
+        GameObject.FindGameObjectWithTag("Player").TryGetComponent(out animator);
+        TryGetComponent(out Bulletaudio);
+    }
+
     private void Start()
     {
-        TryGetComponent(out player);
-        TryGetComponent(out animator);
-       
+  
     }
 
 
     private void FixedUpdate()
     {
 
-        if (player.transform.localScale.x == -1.3f)
+        if (player_location.transform.localScale.x == -1.3f)
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.75f, 0.75f, 0);
-            BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, 180f);
+            transform.localPosition = new Vector3(0.75f, 0.75f, 0);
+            transform.rotation = Quaternion.Euler(0f, 0f, 180f);
         }
-        if (player.transform.localScale.x == 1.3f)
+        if (player_location.transform.localScale.x == 1.3f)
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.75f, 0.75f, 0);
-            BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, 0f);
+            transform.localPosition = new Vector3(0.75f, 0.75f, 0);
+            transform.rotation = Quaternion.Euler(0f, 0f, 0f);
         }
 
 
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Up") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Up") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Up"))
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.3f, 1.7f, 0);
-            BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, 90f);
+            transform.localPosition = new Vector3(0.3f, 1.7f, 0);
+            transform.rotation = Quaternion.Euler(0f, 0f, 90f);
         }
 
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Down") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Down"))
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.3f, 0.1f, 0);
-            BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, -90f);
+            transform.localPosition = new Vector3(0.3f, 0.1f, 0);
+            transform.rotation = Quaternion.Euler(0f, 0f, -90f);
         }
 
 
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Side_Up") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Side_Up") 
             || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Run_Shoot_Sideup") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Up"))
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.75f, 1.2f, 0);
+            transform.localPosition = new Vector3(0.75f, 1.2f, 0);
 
-            if (player.transform.localScale.x == -1.3f)
+            if (player_location.transform.localScale.x == -1.3f)
             {
-                BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, 135f);
+                transform.rotation = Quaternion.Euler(0f, 0f, 135f);
             }
             else
             {
-                BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, 45f);
+                transform.rotation = Quaternion.Euler(0f, 0f, 45f);
             }
         }
 
@@ -71,22 +83,22 @@ public class Weapon : MonoBehaviour
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Side_Down") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Side_Down") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Down"))
         {
 
-            BulletSpawner.transform.localPosition = new Vector3(0.75f, 0.4f, 0);
+            transform.localPosition = new Vector3(0.75f, 0.4f, 0);
 
 
-            if (player.transform.localScale.x == -1.3f)
+            if (player_location.transform.localScale.x == -1.3f)
             {
-                BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, -135f);
+                transform.rotation = Quaternion.Euler(0f, 0f, -135f);
             }
             else
             {
-                BulletSpawner.transform.rotation = Quaternion.Euler(0f, 0f, -45f);
+                transform.rotation = Quaternion.Euler(0f, 0f, -45f);
             }
         }
 
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Duck_Shoot") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_duck_Idle"))
         {
-            BulletSpawner.transform.localPosition = new Vector3(0.75f, 0.45f, 0);
+            transform.localPosition = new Vector3(0.75f, 0.45f, 0);
         }
 
 
@@ -95,27 +107,41 @@ public class Weapon : MonoBehaviour
 
     private IEnumerator TryAttack_co()
     {
+
         while (true)
         {
-            Instantiate(Bullet, BulletSpawner.transform.position, BulletSpawner.transform.rotation);
+       
+            Instantiate(Bullet, transform.position, transform.rotation);
 
             yield return new WaitForSeconds(Attack_Rate);
+
         }
     }
 
     public void startFire()
     {
+        Bulletaudio.loop = true;
+        Bulletaudio.clip = bulletClips;
+        Bulletaudio.Play();
+
         StartCoroutine("TryAttack_co");
     }
     public void stopFire()
     {
+        Bulletaudio.Stop();
+
         StopCoroutine("TryAttack_co");
     }
 
     private IEnumerator Try_Special_Attack_co()
     {
+        
         yield return new WaitForSecondsRealtime(0.4f);
-        Instantiate(BigBullet, BulletSpawner.transform.position, BulletSpawner.transform.rotation);
+        Bulletaudio.loop = false;
+        Bulletaudio.clip = BigBulletCilp;
+        Bulletaudio.Play();
+
+        Instantiate(BigBullet, transform.position, transform.rotation);
     }
 
     public void startAttack()

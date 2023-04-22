@@ -38,7 +38,7 @@ public class MainMenuControll : MonoBehaviour
                     SceneManager.LoadScene("Map");
                     break;
                 case 1:
-
+                    SceneManager.LoadScene("Tutorial");
                     break;
                 default:
                     Application.Quit();

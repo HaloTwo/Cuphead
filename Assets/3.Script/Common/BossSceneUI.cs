@@ -4,6 +4,12 @@ using UnityEngine;
 
 public class BossSceneUI : MonoBehaviour
 {
+    private AudioSource audioSource;
+
+    public AudioClip Intro;
+    public AudioClip GameOver;
+    public AudioClip Outro;
+
     private GameState curState = GameState.TRANSITION_IN;
 
     public GameState CurState
@@ -37,11 +43,13 @@ public class BossSceneUI : MonoBehaviour
     public PlayerMovement player;
     public GameObject[] UI = new GameObject[5];
 
-    void Start()
+    private void Awake()
     {
         GameManager.Instance.UI = this;
         GameObject.FindGameObjectWithTag("Player").TryGetComponent(out player);
+        TryGetComponent(out audioSource);
     }
+
 
     void Update()
     {

@@ -16,17 +16,25 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private BoxCollider2D boxCollider2D;
-    private Weapon weapon;
+    [SerializeField] private Weapon weapon;
+    private AudioSource Playeraudio;
 
+    public AudioClip JumpClip;
+    public AudioClip DashCilp;
+    public AudioClip ParryCilp;
+    public AudioClip HitCilp;
+    public AudioClip DeathCilp;
+    public AudioClip Fire_Start;
 
+    [SerializeField] private AudioSource Jumpaudio;
     [SerializeField] private Animator jump_animator;
     [SerializeField] private GameObject jump_transform;
+    [SerializeField] private float jump_Force = 1400f;
+    
     [SerializeField] private Animator Attack_animator;
 
 
-    [SerializeField] private float jump_Force = 1400f;
     [SerializeField] private GameObject[] HP_count;
-    //private AudioSource Playeraudio;
 
     //버튼 클릭
     //private bool isParry= false;
@@ -81,6 +89,8 @@ public class PlayerMovement : MonoBehaviour
                 HP_count[1].SetActive(false);
                 HP_count[0].SetActive(true);
                 animator.SetBool("Die", true);
+                Playeraudio.clip = DeathCilp;
+                Playeraudio.Play();
                 Die = true;
             }
         }
@@ -113,33 +123,26 @@ public class PlayerMovement : MonoBehaviour
     bool onPlatform = false;
     bool isjump = false;
 
-
     private void Awake()
     {
+        currenthp = MaxHp;
         GameManager.Instance.player = gameObject;
 
-        TryGetComponent(out weapon);
+        GameObject.Find("BulletSpawner").TryGetComponent(out weapon);
         TryGetComponent(out boxCollider2D);
         TryGetComponent(out movement2D);
         TryGetComponent(out rb);
         TryGetComponent(out animator);
         TryGetComponent(out spriteRenderer);
-
-        //TryGetComponent(out Playeraudio);
-
-        currenthp = MaxHp;
-
+        TryGetComponent(out Playeraudio);
     }
 
-    private void OnEnable()
-    {
-        GameObject.Find("Jump_Dust").TryGetComponent(out jump_animator);
-    }
+
 
     void Start()
     {
 
-        //gameObject.SetActive(false);
+        
     }
 
 
@@ -147,6 +150,10 @@ public class PlayerMovement : MonoBehaviour
     {
         x = Input.GetAxis("Horizontal");
         y = Input.GetAxis("Vertical");
+
+
+        if (animator.GetBool("isDash"))
+            return;
 
         //사망 시
         if (Die)
@@ -189,6 +196,8 @@ public class PlayerMovement : MonoBehaviour
         //공격
         if (Input.GetKeyDown(KeyCode.X))
         {
+            Playeraudio.clip = Fire_Start;
+            Playeraudio.Play();
             weapon.startFire();
             animator.SetBool("isAttack", true);
             Attack_animator.SetBool("Shooting", true);
@@ -201,11 +210,28 @@ public class PlayerMovement : MonoBehaviour
             Attack_animator.SetBool("Shooting", false);
         }
 
+      IEnumerator Super_Beam()
+      {
+            weapon.stopFire();
+            Attack_animator.SetBool("Shooting", false);
+            power_gauge -= 100;
+            rb.velocity = Vector2.zero;
+            animator.SetBool("Super_Beam", true);
+            Time.timeScale = 0.9f;
+            yield return new WaitUntil(() => currentAnimation.IsName("Player_Super_Beam") && currentAnimation.normalizedTime >= 1.0f);
+      }
 
-
-        //강공격
+        Time.timeScale = 1f;
         special_Attack_Timer += Time.deltaTime;
-        if (Input.GetKeyDown(KeyCode.V) && power_gauge >= 20 && special_Attack_Timer >= special_Attack_Delay)
+        
+        animator.SetBool("Super_Beam", false);
+
+        if (Input.GetKeyDown(KeyCode.V) && power_gauge == 100)
+        {
+            StartCoroutine(Super_Beam());
+        }
+        //강공격
+        else if (Input.GetKeyDown(KeyCode.V) && power_gauge >= 20 && special_Attack_Timer >= special_Attack_Delay)
         {
             power_gauge -= 20;
             animator.SetTrigger("Special");
@@ -218,17 +244,18 @@ public class PlayerMovement : MonoBehaviour
             currentAnimation.IsName("Player_Special_Attack_Side_Down") ||
             currentAnimation.IsName("Player_Special_Attack_Down"))
         {
-            animator.SetBool("isJump", false); 
+            weapon.stopFire();
+            animator.SetBool("isAttack", false);
+            animator.SetBool("isJump", false);
+            Attack_animator.SetBool("Shooting", false);
             x = 0;
             y = 0;
             rb.velocity = Vector2.zero;
-            rb.gravityScale = 0f;
             special_Attack_Timer = 0f;
         }
-        else
-        {
-            rb.gravityScale = 1f;
-        }
+
+
+
 
         //조준
         if (Input.GetKeyDown(KeyCode.C))
@@ -244,6 +271,8 @@ public class PlayerMovement : MonoBehaviour
         dashTimer += Time.deltaTime;
         if (Input.GetKeyDown(KeyCode.LeftShift) && dashTimer >= dashDelayTime)
         {
+            Playeraudio.clip = DashCilp;
+            Playeraudio.Play();
             dashInput = true;
             animator.SetBool("isDash", true);
             dashTimer = 0;
@@ -261,7 +290,9 @@ public class PlayerMovement : MonoBehaviour
             rb.AddForce(new Vector2(0, jump_Force));
 
             //점프 할 때, 소리 만들기
-            //Playeraudio.Play();
+            //audio.source에 할당된 오디오 클립을 deathCilp으로 할당
+            Playeraudio.clip = JumpClip;
+            Playeraudio.Play();
 
         }
         else if (Input.GetKeyDown(KeyCode.Z) && animator.GetBool("isJump"))
@@ -273,6 +304,7 @@ public class PlayerMovement : MonoBehaviour
             };
             StartCoroutine(CoWait(perryTime, turnOffPerry));
         }
+
 
         //이동 값 받기
         animator.SetInteger("Horizontal", GetIntAxis(x));
@@ -345,7 +377,9 @@ public class PlayerMovement : MonoBehaviour
     //패링
     public void OnParraing()
     {
-        power_gauge += 20;
+        Playeraudio.clip = ParryCilp;
+        Playeraudio.Play();
+        power_gauge += 10;
         Vector2 velocity = rb.velocity;
         velocity.y = perryPower;
         rb.velocity = velocity;
@@ -401,6 +435,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
+            Playeraudio.clip = HitCilp;
+            Playeraudio.Play();
             TakeDamage(collision.transform.position);
         }
         boxCollider2D.enabled = true;
@@ -422,9 +458,9 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-   private void OnCollisionStay2D(Collision2D collision)
-   {
-        if ((collision.gameObject.CompareTag("Ground")|| collision.gameObject.CompareTag("PlatForm")) && animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Jump") && !animator.IsInTransition(0))
+    private void OnCollisionStay2D(Collision2D collision)
+    {
+        if ((collision.gameObject.CompareTag("Ground") || collision.gameObject.CompareTag("PlatForm")) && animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Jump") && !animator.IsInTransition(0))
         {
             isjump = false;
             animator.SetBool("isJump", isjump);
@@ -436,6 +472,8 @@ public class PlayerMovement : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Enemy"))
         {
+            Playeraudio.clip = HitCilp;
+            Playeraudio.Play();
             TakeDamage(collision.transform.position);
         }
 
@@ -443,6 +481,7 @@ public class PlayerMovement : MonoBehaviour
         {
             jump_transform.transform.position = gameObject.transform.position;
             jump_animator.SetTrigger("Ground");
+            Jumpaudio.Play();
 
             isjump = false;
             animator.SetBool("isJump", isjump);
@@ -452,9 +491,10 @@ public class PlayerMovement : MonoBehaviour
         {
             jump_transform.transform.position = gameObject.transform.position;
             jump_animator.SetTrigger("Ground");
+            Jumpaudio.Play();
 
             onPlatform = true;
-            isjump= false;
+            isjump = false;
             animator.SetBool("isJump", isjump);
             animator.SetBool("isParry", isjump);
         }
@@ -477,4 +517,5 @@ public class PlayerMovement : MonoBehaviour
 
         func();
     }
+
 }

@@ -42,12 +42,19 @@ public class Ghost_Parrying : Parryable
             collision.GetComponent<PlayerMovement>().OnParraing();
 
             if (isParryable)
-                ghost.SetBool("Parry", true);
-            circleCollider2D.enabled = false;
+                StartCoroutine(Ghost_co());
+
         }
     }
 
-
+    public IEnumerator Ghost_co()
+    {
+        Time.timeScale = 0.1f;
+        ghost.SetBool("Parry", true);
+        circleCollider2D.enabled = false;
+        yield return new WaitForSecondsRealtime(0.1f);
+        Time.timeScale = 1f;
+    }
     //public override void OnParryable()
     //{
     //    gameObject.SetActive(false);

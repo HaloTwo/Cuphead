@@ -13,35 +13,74 @@ public class GoopyBoss2 : Boss
     [SerializeField] private int attack_count = 0;
     [SerializeField] private int Randomcount = 3;
 
+    public AudioClip DeathCilp;
+    public AudioClip DropCilp;
+    public AudioClip Move1;
+    public AudioClip Move2;
+    public AudioClip Splat;
+    public AudioClip SplatStart;
+
+    private bool OnDie = false;
+    private bool Right_Move = true;
+    private bool Left_Move = true;
     //생성되면 움직이기 실행
     private void OnEnable()
     {
+        audioSource.clip = DropCilp;
+        audioSource.Play();
         Invoke("Boss2_Move_Start", 2.5f);
     }
 
-    private void Update()
+    void Animation_Attack_Start()
     {
-        //체력이 0이하일때
-        if (Currenthp <= 0)
-        {
-            animator.SetBool("Die", true);
-            Dir = Vector2.zero;
-            GameManager.Instance.FirstBoss = true;
-            GameManager.Instance.CurState = GameState.OUTRO;
-        }
+        audioSource.clip = SplatStart;
+        audioSource.Play();
+    }
+    void Animation_Attack()
+    {
+        audioSource.clip = Splat;
+        audioSource.Play();
     }
 
     private void FixedUpdate()
     {
+        //체력이 0이하일때
+        if (Currenthp <= 0 && !OnDie)
+        {
+            OnDie = true;
+            animator.SetBool("Die", true);
+            audioSource.clip = DeathCilp;
+            audioSource.Play();
+            Dir = Vector2.zero;
+            GameManager.Instance.FirstBoss = true;
+            GameManager.Instance.CurState = GameState.OUTRO;
+        }
+
+
         //왼쪽으로 움직일때
-        if (animator.GetBool("Move_Left") == true)
+        if (animator.GetBool("Move_Left"))
         {
             transform.Translate(Dir * bossMoveSpeed * Time.deltaTime);
+
+            if (Left_Move)
+            {
+                audioSource.clip = Move1;
+                audioSource.Play();
+                Left_Move = false;
+            }
         }
+
         //오른쪽으로 움직일때
-        if (animator.GetBool("Move_Right") == true)
+        if (animator.GetBool("Move_Right"))
         {
             transform.Translate(-Dir * bossMoveSpeed * Time.deltaTime);
+
+            if (Right_Move)
+            {
+                audioSource.clip = Move2;
+                audioSource.Play();
+                Right_Move = false;
+            }
         }
         //벽에 3번 움직이고 난 다음
         if (attack_count >= Randomcount)
@@ -71,12 +110,14 @@ public class GoopyBoss2 : Boss
         {
             animator.SetBool("Move_Left", false);
             animator.SetBool("Move_Right", true);
+            Left_Move = true;
             attack_count++;
         }
         else if (collision.CompareTag("Wall") && animator.GetBool("Move_Right") == true)
         {
             animator.SetBool("Move_Left", true);
             animator.SetBool("Move_Right", false);
+            Right_Move = true;
             attack_count++;
         }
     }

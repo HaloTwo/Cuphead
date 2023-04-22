@@ -5,9 +5,10 @@ using UnityEngine;
 public class Boss : MonoBehaviour
 {
     [SerializeField] protected Animator animator;
-    [SerializeField] protected Rigidbody2D rb;
+    protected Rigidbody2D rb;
     protected SpriteRenderer spriteRenderer;
     protected GameObject target;
+    protected AudioSource audioSource;
 
     //보스 HP
     //-------------------
@@ -25,6 +26,7 @@ public class Boss : MonoBehaviour
 
     public void Awake()
     {
+        TryGetComponent(out audioSource);
         TryGetComponent(out animator);
         TryGetComponent(out rb);
         TryGetComponent(out spriteRenderer);

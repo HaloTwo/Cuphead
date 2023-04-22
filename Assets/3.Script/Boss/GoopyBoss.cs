@@ -6,16 +6,32 @@ using UnityEngine.UIElements;
 
 public class GoopyBoss : Boss
 {
-    [SerializeField] private Animator Jump_animator;
     [SerializeField] private float jumpPower = 1300f;
     [SerializeField] private float bossMoveSpeed = 600;
     private BoxCollider2D boxCollider2D;
     private CircleCollider2D circleCollider2D;
     private CapsuleCollider2D capsuleCollider2D;
+    private AudioSource jumpSource;
+
+
+    [SerializeField] private Animator Jump_animator;
+    public AudioClip introCilp;
+    public AudioClip DeathCilp;
+    public AudioClip DeathVoice_Cilp;
+    public AudioClip JumpCilp;
+    public AudioClip Ground;
+    public AudioClip PunchCilp;
+    public AudioClip TransCilp;
+    public AudioClip Ph2_JumpCilp;
+    public AudioClip Ph2_GroundCilp;
+    public AudioClip Ph2_PunchCilp;
+
 
     private bool jump_check = false;
     private int jump_count = 3;
     private Vector2 bossMove = Vector2.left;
+    private bool OnDie = false;
+
     [SerializeField]
     private GameObject parrying_obj1;
     [SerializeField]
@@ -31,30 +47,40 @@ public class GoopyBoss : Boss
         TryGetComponent(out boxCollider2D);
         TryGetComponent(out circleCollider2D);
         TryGetComponent(out capsuleCollider2D);
-
+        GameObject.Find("Goppy_Jump_Dust").TryGetComponent(out jumpSource);
 
         coroutine = AttackPattern_co();
         StartCoroutine(coroutine);
         GameManager.Instance.curPhase = 1;
     }
 
-    void Update()
+    private void FixedUpdate()
     {
         //체력이 0 이하가 되면 코루팅 중지 후 죽는 모션 출력
-        if (Currenthp <= 0)
+        if (OnDie)
         {
             StopCoroutine(coroutine);
-            animator.SetBool("Ph2_Die", true);
             GameManager.Instance.curPhase = 3;
         }
-
     }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Ground"))
         {
             Jump_animator.SetTrigger("Touch");
+
+            if (animator.GetBool("Ph2_Trans"))
+            {
+                audioSource.clip = Ph2_GroundCilp;
+                audioSource.Play();
+            }
+            else
+            {
+                audioSource.clip = Ground;
+                audioSource.Play();
+            }
         }
         boxCollider2D.enabled = false;
         jump_check = false;
@@ -103,12 +129,37 @@ public class GoopyBoss : Boss
         parrying_obj3.SetActive(true);
     }
 
+    void Destory_Parrying_Obj()
+    {
+        parrying_obj1.SetActive(false);
+        parrying_obj2.SetActive(false);
+        parrying_obj3.SetActive(false);
+    }
+
+    void intro_Animation()
+    {
+        audioSource.clip = introCilp;
+        audioSource.Play();
+    }
+
     //점프
     private void Jump()
     {
-        if (!jump_check)
+        if (!jump_check && !OnDie)
         {
             animator.SetTrigger("Jump");
+
+            if (animator.GetBool("Ph2_Trans"))
+            {
+                audioSource.clip = Ph2_JumpCilp;
+                audioSource.Play();
+            }
+            else
+            {
+                audioSource.clip = JumpCilp;
+                audioSource.Play();
+            }
+
 
             if (transform.localScale.x == 1.3f)
             {
@@ -124,6 +175,18 @@ public class GoopyBoss : Boss
         }
     }
 
+    void Ph2_Punch_Sound()
+    {
+        jumpSource.clip = Ph2_PunchCilp;
+        jumpSource.Play();
+    }
+
+    void Punch_Sound()
+    {
+        jumpSource.clip = PunchCilp;
+        jumpSource.Play();
+    }
+
     //펀치 공격
     void PunchAttack()
     {
@@ -137,17 +200,33 @@ public class GoopyBoss : Boss
         while (true)
         {
             //인트로 or 공격 모션 출력됨
-            yield return new WaitForSeconds(3f);
+            //yield return new WaitForSeconds(3f);
+            yield return new WaitUntil(() => animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f);
 
             //점프 카운트가 0이하면 펀치 출격
             while (jump_count >= 0)
             {
+                if (Currenthp <= 0)
+                {
+                    OnDie = true;
+                    animator.SetBool("Ph2_Die", true);
+                    jumpSource.clip = DeathCilp;
+                    jumpSource.Play();
+
+                    audioSource.loop = true;
+                    audioSource.clip = DeathVoice_Cilp;
+                    audioSource.Play();
+                }
+
                 //체력이 100이하로 내려갔는데, 2페가 아닌 상태면 2페 시작
                 if (Currenthp <= 50 && animator.GetBool("Ph2_Trans") == false)
                 {
                     GameManager.Instance.curPhase = 2;
+                    forceTarget(target);
                     animator.SetBool("Ph2_Trans", true);
                     Jump_animator.SetBool("ph2", true);
+                    audioSource.clip = TransCilp;
+                    audioSource.Play();
                     yield return new WaitUntil(() => animator.GetCurrentAnimatorStateInfo(0).IsName("Boss_ph2_Trans") && animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1.0f);
                 }
                 //점프
@@ -164,6 +243,8 @@ public class GoopyBoss : Boss
             PunchAttack();
         }
     }
+
+
 
 
 

@@ -9,10 +9,6 @@ public class Target : Boss
     [SerializeField]
     GameObject after;
 
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void Update()

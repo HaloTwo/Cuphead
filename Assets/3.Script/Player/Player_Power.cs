@@ -88,7 +88,19 @@ public class Player_Power : MonoBehaviour
         }
 
 
-
+        if (gauge == 0)
+        {
+            Card1_animator.SetBool("All", false);
+            Card2_animator.SetBool("All", false);
+            Card3_animator.SetBool("All", false);
+            Card4_animator.SetBool("All", false);
+            Card5_animator.SetBool("All", false); 
+            Card1_animator.SetBool("Power", false);
+            Card2_animator.SetBool("Power", false);
+            Card3_animator.SetBool("Power", false);
+            Card4_animator.SetBool("Power", false);
+            Card5_animator.SetBool("Power", false);
+        }
 
         if (gauge >= 20 && gauge < 40)
         {
