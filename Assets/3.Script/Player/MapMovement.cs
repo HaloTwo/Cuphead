@@ -10,6 +10,7 @@ public class MapMovement : MonoBehaviour
     private Movement2D movement2D;
     [SerializeField] private Animator animator;
     [SerializeField] private GameObject Button;
+    [SerializeField] private GameObject PauseUI;
     public GameObject EquipButton;
     [SerializeField] private TextMeshProUGUI Coin;
     //[SerializeField] private GameObject Boss;
@@ -71,6 +72,21 @@ public class MapMovement : MonoBehaviour
         Player_State.Instance.playerPostion = transform.position;
     }
 
+    private void LateUpdate()
+    {
+        if (Input.GetKeyDown(KeyCode.Escape) && !PauseUI.activeSelf)
+        {
+            Time.timeScale = 0f;
+            PauseUI.SetActive(true);
+
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf)
+        {
+            Time.timeScale = 1f;
+            PauseUI.SetActive(false);
+
+        }
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

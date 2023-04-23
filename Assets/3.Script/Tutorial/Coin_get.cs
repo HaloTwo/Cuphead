@@ -6,23 +6,22 @@ public class Coin_get : MonoBehaviour
 {
     private Animator animator;
     private CapsuleCollider2D capsuleCollider;
+    private AudioSource audioSource;
 
     void Start()
     {
         TryGetComponent(out animator);
         TryGetComponent(out capsuleCollider);
+        TryGetComponent(out audioSource);
     }
 
-    void Update()
-    {
-        
-    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
       
         if (collision.CompareTag("Player"))
         {
+            audioSource.Play();
             Player_State.Instance.coin++;
             animator.SetBool("Get",true);
 

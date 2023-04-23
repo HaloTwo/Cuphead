@@ -102,10 +102,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 0}
-  MaxHP: 30
+  MaxHP: 100
   CurrentHP: 0
   Boss: {fileID: 0}
-  bossMoveSpeed: 12
+  bossMoveSpeed: 10
   attack_count: 0
   Randomcount: 3
   DeathCilp: {fileID: 8300000, guid: 4ae5a220c71c2c044a63d57073f6b702, type: 3}

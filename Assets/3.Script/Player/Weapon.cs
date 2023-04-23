@@ -12,7 +12,6 @@ public class Weapon : MonoBehaviour
     [SerializeField] private float Attack_Rate = 0.3f;
 
     public AudioClip bulletClips;
-    public AudioClip BigBulletCilp;
 
     [SerializeField]
     private Transform player_location;
@@ -135,11 +134,14 @@ public class Weapon : MonoBehaviour
 
     private IEnumerator Try_Special_Attack_co()
     {
-        
-        yield return new WaitForSecondsRealtime(0.4f);
-        Bulletaudio.loop = false;
-        Bulletaudio.clip = BigBulletCilp;
-        Bulletaudio.Play();
+
+        //yield return new WaitUntil(() => animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Up") ||
+        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Straight") ||
+        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Up") ||
+        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Down") ||
+        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Down") && animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f);
+      
+        yield return new WaitForSeconds(0.2f);
 
         Instantiate(BigBullet, transform.position, transform.rotation);
     }

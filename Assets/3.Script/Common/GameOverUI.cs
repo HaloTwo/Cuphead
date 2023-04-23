@@ -74,7 +74,5 @@ public class GameOverUI : MonoBehaviour
         int phase = GameManager.Instance.curPhase;
         mugshots[0].SetActive(true);
         mugshots[phase].SetActive(true);       
-
-
     }
 }

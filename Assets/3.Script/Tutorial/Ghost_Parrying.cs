@@ -4,15 +4,15 @@ using UnityEngine;
 
 public class Ghost_Parrying : Parryable
 {
-    [SerializeField]
     private Animator ghost;
     private float timer;
     private CircleCollider2D circleCollider2D;
 
-    private void Start()
+    private void Awake()
     {
         TryGetComponent(out ghost);
         TryGetComponent(out circleCollider2D);
+        TryGetComponent(out audioSource);
 
     }
 
@@ -20,11 +20,12 @@ public class Ghost_Parrying : Parryable
     {
         gameObject.transform.Translate(Vector2.up * Time.deltaTime * 3f);
 
-
+        Debug.Log(isParryable);
         timer += Time.deltaTime;
         if (timer >= 5f)
         {
             timer = 0;
+            isParryable = true;
             transform.position = new Vector2(102f, -7f);
             ghost.SetBool("Parry", false);
             circleCollider2D.enabled = true;
@@ -37,12 +38,12 @@ public class Ghost_Parrying : Parryable
         if (!collision.CompareTag("Player"))
             return;
 
-        if (collision.GetComponent<Animator>().GetBool("isParry"))
+        if (collision.GetComponent<Animator>().GetBool("isParry") && isParryable)
         {
+            isParryable = false;
+            audioSource.Play();
             collision.GetComponent<PlayerMovement>().OnParraing();
-
-            if (isParryable)
-                StartCoroutine(Ghost_co());
+            StartCoroutine(Ghost_co());
 
         }
     }
@@ -52,7 +53,7 @@ public class Ghost_Parrying : Parryable
         Time.timeScale = 0.1f;
         ghost.SetBool("Parry", true);
         circleCollider2D.enabled = false;
-        yield return new WaitForSecondsRealtime(0.1f);
+        yield return new WaitForSecondsRealtime(parrying_time_slow);
         Time.timeScale = 1f;
     }
     //public override void OnParryable()

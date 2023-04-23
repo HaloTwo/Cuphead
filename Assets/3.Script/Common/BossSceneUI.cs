@@ -6,7 +6,6 @@ public class BossSceneUI : MonoBehaviour
 {
     private AudioSource audioSource;
 
-    public AudioClip Intro;
     public AudioClip GameOver;
     public AudioClip Outro;
 
@@ -70,4 +69,6 @@ public class BossSceneUI : MonoBehaviour
     {
         GameManager.Instance.CurState = GameState.TRANSITION_OUT;
     }
+
+
 }

@@ -27,7 +27,7 @@ public class GoopyBoss : Boss
     public AudioClip Ph2_PunchCilp;
 
 
-    private bool jump_check = false;
+   // private bool jump_check = false;
     private int jump_count = 3;
     private Vector2 bossMove = Vector2.left;
     private bool OnDie = false;
@@ -57,10 +57,24 @@ public class GoopyBoss : Boss
     private void FixedUpdate()
     {
         //체력이 0 이하가 되면 코루팅 중지 후 죽는 모션 출력
-        if (OnDie)
+        if (Currenthp <= 0 && !OnDie)
         {
-            StopCoroutine(coroutine);
+            //3페이즈
             GameManager.Instance.curPhase = 3;
+            //코루틴 정지
+            StopCoroutine(coroutine);
+
+            //한번만 실행, 죽는 애니메이션 실행
+            OnDie = true;
+            animator.SetBool("Ph2_Die", true);
+
+            //목소리와 효과음 실행
+            jumpSource.clip = DeathCilp;
+            jumpSource.Play();
+
+            audioSource.loop = true;
+            audioSource.clip = DeathVoice_Cilp;
+            audioSource.Play();
         }
     }
 
@@ -83,7 +97,7 @@ public class GoopyBoss : Boss
             }
         }
         boxCollider2D.enabled = false;
-        jump_check = false;
+       // jump_check = false;
     }
     private void OnTriggerExit2D(Collider2D collision)
     {
@@ -145,7 +159,7 @@ public class GoopyBoss : Boss
     //점프
     private void Jump()
     {
-        if (!jump_check && !OnDie)
+        if (!OnDie)
         {
             animator.SetTrigger("Jump");
 
@@ -206,20 +220,9 @@ public class GoopyBoss : Boss
             //점프 카운트가 0이하면 펀치 출격
             while (jump_count >= 0)
             {
-                if (Currenthp <= 0)
-                {
-                    OnDie = true;
-                    animator.SetBool("Ph2_Die", true);
-                    jumpSource.clip = DeathCilp;
-                    jumpSource.Play();
 
-                    audioSource.loop = true;
-                    audioSource.clip = DeathVoice_Cilp;
-                    audioSource.Play();
-                }
-
-                //체력이 100이하로 내려갔는데, 2페가 아닌 상태면 2페 시작
-                if (Currenthp <= 50 && animator.GetBool("Ph2_Trans") == false)
+                //체력이 200이하로 내려갔는데, 2페가 아닌 상태면 2페 시작
+                if (Currenthp <= 200 && animator.GetBool("Ph2_Trans") == false)
                 {
                     GameManager.Instance.curPhase = 2;
                     forceTarget(target);

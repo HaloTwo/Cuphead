@@ -1,5 +1,87 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1762845637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1762845638}
+  - component: {fileID: 1762845639}
+  m_Layer: 10
+  m_Name: Super_Beam_Effect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &1762845638
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1762845637}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2.5, y: 2.5, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4515180551800503681}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!212 &1762845639
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1762845637}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 8
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 3.65, y: 6.59}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!1 &4387774360200647288
 GameObject:
   m_ObjectHideFlags: 0
@@ -123,7 +205,6 @@ MonoBehaviour:
   Bulletaudio: {fileID: 0}
   Attack_Rate: 0.15
   bulletClips: {fileID: 8300000, guid: dbb8f060bf0cdbd4ea12e2ffb23819c4, type: 3}
-  BigBulletCilp: {fileID: 8300000, guid: 76d7e5c70ae02d3448dd863d6fd5c4a1, type: 3}
   player_location: {fileID: 0}
 --- !u!82 &8289776849640774939
 AudioSource:
@@ -136,7 +217,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
@@ -259,6 +340,7 @@ Transform:
   m_LocalScale: {x: 1.3, y: 1.3, z: 0}
   m_Children:
   - {fileID: 3638692619668288898}
+  - {fileID: 1762845638}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -320,7 +402,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4515180551800503708}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 9c2101b795c07ed43bcbc2076e13dd76, type: 3}
   m_Name: 
@@ -343,11 +425,15 @@ MonoBehaviour:
   ParryCilp: {fileID: 8300000, guid: 0b7e32b51bf5bdb49bb4225a4fb65f5d, type: 3}
   HitCilp: {fileID: 8300000, guid: 9fee352bc1afe1e4b9e642616b433b4c, type: 3}
   DeathCilp: {fileID: 8300000, guid: 8eeecef20a58f36429237e1568335b9f, type: 3}
+  Fire_Start: {fileID: 8300000, guid: 07817747d3e469541b55cfed1635f057, type: 3}
+  Super_Beam_Start: {fileID: 8300000, guid: 17574349aa00f114ba1a4b82e15e7ed0, type: 3}
+  Super_Beam_Loop: {fileID: 8300000, guid: 1651751884de9794a8eb1dad56968e61, type: 3}
   Jumpaudio: {fileID: 0}
-  jump_animator: {fileID: 3398488441155561361, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+  jump_animator: {fileID: 0}
   jump_transform: {fileID: 0}
   jump_Force: 1400
   Attack_animator: {fileID: 531258540306771696}
+  Super_Beam: {fileID: 0}
   HP_count:
   - {fileID: 0}
   - {fileID: 0}
@@ -356,12 +442,12 @@ MonoBehaviour:
   Power_Gauge: 0
   MaxHp: 3
   CurrentLife: 0
-  dashDelayTime: 0.3
-  dashPower: 10
+  dashDelayTime: 0.5
+  dashPower: 7
   dashTime: 0.3
   perryPower: 20
   perryTime: 0.3
-  special_Attack_Delay: 0.5
+  special_Attack_Delay: 0.1
   onPlatform: 0
 --- !u!114 &20382697
 MonoBehaviour:
@@ -452,7 +538,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.0133497715, y: -0.2}
+  m_Offset: {x: 0.016510922, y: -0.056917563}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -463,7 +549,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 0.05}
+  m_Size: {x: 0.059641324, y: 0.22473812}
   m_EdgeRadius: 0
 --- !u!95 &531258539838509394
 Animator:
@@ -495,7 +581,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0

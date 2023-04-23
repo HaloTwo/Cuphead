@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using System.Threading;
-using UnityEditorInternal;
 using UnityEngine;
 
 public class GoopyBoss2 : Boss
@@ -55,10 +54,8 @@ public class GoopyBoss2 : Boss
             GameManager.Instance.FirstBoss = true;
             GameManager.Instance.CurState = GameState.OUTRO;
         }
-
-
         //왼쪽으로 움직일때
-        if (animator.GetBool("Move_Left"))
+        else if (animator.GetBool("Move_Left"))
         {
             transform.Translate(Dir * bossMoveSpeed * Time.deltaTime);
 
@@ -69,9 +66,8 @@ public class GoopyBoss2 : Boss
                 Left_Move = false;
             }
         }
-
         //오른쪽으로 움직일때
-        if (animator.GetBool("Move_Right"))
+        else if (animator.GetBool("Move_Right"))
         {
             transform.Translate(-Dir * bossMoveSpeed * Time.deltaTime);
 
@@ -82,6 +78,7 @@ public class GoopyBoss2 : Boss
                 Right_Move = false;
             }
         }
+
         //벽에 3번 움직이고 난 다음
         if (attack_count >= Randomcount)
         {

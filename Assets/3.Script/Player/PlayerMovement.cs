@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.ComTypes;
 using System.Security.Cryptography;
-using UnityEditor.U2D.Path.GUIFramework;
+using Unity.Mathematics;
 using UnityEngine;
 using UnityEngine.Diagnostics;
 using UnityEngine.EventSystems;
@@ -16,7 +16,7 @@ public class PlayerMovement : MonoBehaviour
     private Rigidbody2D rb;
     private Animator animator;
     private BoxCollider2D boxCollider2D;
-    [SerializeField] private Weapon weapon;
+    private Weapon weapon;
     private AudioSource Playeraudio;
 
     public AudioClip JumpClip;
@@ -25,19 +25,21 @@ public class PlayerMovement : MonoBehaviour
     public AudioClip HitCilp;
     public AudioClip DeathCilp;
     public AudioClip Fire_Start;
+    public AudioClip Super_Beam_Start;
+    public AudioClip Super_Beam_Loop;
 
+
+    [SerializeField] private GameObject PauseUI;
     [SerializeField] private AudioSource Jumpaudio;
     [SerializeField] private Animator jump_animator;
     [SerializeField] private GameObject jump_transform;
     [SerializeField] private float jump_Force = 1400f;
-    
-    [SerializeField] private Animator Attack_animator;
 
+    [SerializeField] private Animator Attack_animator;
+    [SerializeField] private GameObject Super_Beam;
 
     [SerializeField] private GameObject[] HP_count;
 
-    //버튼 클릭
-    //private bool isParry= false;
 
     [SerializeField]
     private int Power_Gauge;
@@ -135,14 +137,7 @@ public class PlayerMovement : MonoBehaviour
         TryGetComponent(out animator);
         TryGetComponent(out spriteRenderer);
         TryGetComponent(out Playeraudio);
-    }
-
-
-
-    void Start()
-    {
-
-        
+        animator.updateMode = AnimatorUpdateMode.UnscaledTime;
     }
 
 
@@ -210,25 +205,27 @@ public class PlayerMovement : MonoBehaviour
             Attack_animator.SetBool("Shooting", false);
         }
 
-      IEnumerator Super_Beam()
-      {
+        IEnumerator Super_Beam_co()
+        {
             weapon.stopFire();
             Attack_animator.SetBool("Shooting", false);
             power_gauge -= 100;
             rb.velocity = Vector2.zero;
-            animator.SetBool("Super_Beam", true);
-            Time.timeScale = 0.9f;
-            yield return new WaitUntil(() => currentAnimation.IsName("Player_Super_Beam") && currentAnimation.normalizedTime >= 1.0f);
-      }
 
-        Time.timeScale = 1f;
-        special_Attack_Timer += Time.deltaTime;
-        
+            Playeraudio.clip = Super_Beam_Start;
+            Playeraudio.Play();
+
+            animator.SetBool("Super_Beam", true);
+            yield return new WaitUntil(() => currentAnimation.IsName("Player_Super_Beam") && currentAnimation.normalizedTime >= 1.0f);
+        }
         animator.SetBool("Super_Beam", false);
+
+
+        special_Attack_Timer += Time.deltaTime;
 
         if (Input.GetKeyDown(KeyCode.V) && power_gauge == 100)
         {
-            StartCoroutine(Super_Beam());
+            StartCoroutine(Super_Beam_co());
         }
         //강공격
         else if (Input.GetKeyDown(KeyCode.V) && power_gauge >= 20 && special_Attack_Timer >= special_Attack_Delay)
@@ -244,17 +241,12 @@ public class PlayerMovement : MonoBehaviour
             currentAnimation.IsName("Player_Special_Attack_Side_Down") ||
             currentAnimation.IsName("Player_Special_Attack_Down"))
         {
-            weapon.stopFire();
-            animator.SetBool("isAttack", false);
             animator.SetBool("isJump", false);
-            Attack_animator.SetBool("Shooting", false);
             x = 0;
             y = 0;
             rb.velocity = Vector2.zero;
             special_Attack_Timer = 0f;
         }
-
-
 
 
         //조준
@@ -327,7 +319,20 @@ public class PlayerMovement : MonoBehaviour
         if (animator.GetBool("isDash"))
             return;
 
+        if (Input.GetKeyDown(KeyCode.Escape) && !PauseUI.activeSelf)
+        {
+            animator.updateMode = AnimatorUpdateMode.Normal;
+            Time.timeScale = 0f;
+            PauseUI.SetActive(true);
 
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf)
+        {
+            animator.updateMode = AnimatorUpdateMode.UnscaledTime;
+            Time.timeScale = 1f;
+            PauseUI.SetActive(false);
+
+        }
 
         // Vector2 velocity = new Vector2(0, rb.velocity.y);
         //
@@ -352,6 +357,27 @@ public class PlayerMovement : MonoBehaviour
 
         movement2D.MoveTo(new Vector3(x, 0, 0));
     }
+
+
+    void Super_Beam_obj()
+    {
+        Playeraudio.clip = Super_Beam_Loop;
+        Playeraudio.Play(); 
+
+        Super_Beam.SetActive(true);
+
+        if (transform.localScale.x == -1.3f)
+        {
+            Super_Beam.transform.position = transform.position + new Vector3(-0.5f, 1f);
+            Super_Beam.transform.localScale = new Vector3(-3f, 3f, 1f);
+        }
+        else
+        {
+            Super_Beam.transform.position = transform.position + new Vector3(0.5f, 1f);
+            Super_Beam.transform.localScale = new Vector3(3f, 3f, 1f);
+        }
+    }
+
 
     //눌린 값을 변환해주는
     public int GetIntAxis(float x)
@@ -379,7 +405,7 @@ public class PlayerMovement : MonoBehaviour
     {
         Playeraudio.clip = ParryCilp;
         Playeraudio.Play();
-        power_gauge += 10;
+        power_gauge += 20;
         Vector2 velocity = rb.velocity;
         velocity.y = perryPower;
         rb.velocity = velocity;
@@ -395,6 +421,7 @@ public class PlayerMovement : MonoBehaviour
 
         int dirc = transform.position.x - targetPos.x > 0 ? 1 : 1;
         rb.AddForce(new Vector2(dirc, 1) * 7, ForceMode2D.Impulse);
+        Super_Beam.SetActive(false);
 
         Invoke("HitEnd", 0.5f);
         Invoke("OffDamaged", 2f);

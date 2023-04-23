@@ -63,38 +63,5 @@ public class Bullet : MonoBehaviour
         Destroy(gameObject);
     }
 
-    void BulletSpawn()
-    {
-
-        //if (Input.GetKey(KeyCode.UpArrow))
-        //{
-        //    transform.Rotate(0, 0, 90f);
-        //}
-        //if (Input.GetKey(KeyCode.C) && Input.GetKey(KeyCode.DownArrow))
-        //{
-        //    transform.Rotate(0, 0, -90f);
-        //}
-        //if (Input.GetKey(KeyCode.UpArrow) && Input.GetKey(KeyCode.RightArrow))
-        //{
-        //    transform.Rotate(0, 0, -45f);
-        //}
-        //if (Input.GetKey(KeyCode.UpArrow) && Input.GetKey(KeyCode.LeftArrow))
-        //{
-        //    transform.Rotate(0, 0, -135f);
-        //}
-        //if (Input.GetKey(KeyCode.DownArrow) && Input.GetKey(KeyCode.RightArrow))
-        //{
-        //    transform.Rotate(0, 0, 45f);
-        //}
-        //if (Input.GetKey(KeyCode.DownArrow) && Input.GetKey(KeyCode.LeftArrow))
-        //{
-        //    transform.Rotate(0, 0, 135f);
-        //}
-        //if (player.transform.localScale.x == -1.3f)
-        //{
-        //    transform.Rotate(0, 0, 180f);
-        //}
-    }
-
 }
 
