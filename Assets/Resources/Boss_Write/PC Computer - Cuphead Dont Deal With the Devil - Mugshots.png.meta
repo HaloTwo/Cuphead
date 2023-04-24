@@ -40,7 +40,7 @@ TextureImporter:
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_11
   - first:
       213: 4684055931414564112
-    second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_12
+    second: carrt
   - first:
       213: 4075501260478722898
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_13
@@ -172,7 +172,7 @@ TextureImporter:
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_55
   - first:
       213: -3575753985296075039
-    second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_56
+    second: Onion
   - first:
       213: -3276602640983928489
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_57
@@ -181,7 +181,7 @@ TextureImporter:
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_58
   - first:
       213: -4581288031515721849
-    second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_59
+    second: Potato
   - first:
       213: -4808581378619755963
     second: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_60
@@ -619,7 +619,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_12
+      name: carrt
       rect:
         serializedVersion: 2
         x: 1530
@@ -1543,7 +1543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_56
+      name: Onion
       rect:
         serializedVersion: 2
         x: 10
@@ -1606,7 +1606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PC Computer - Cuphead Dont Deal With the Devil - Mugshots_59
+      name: Potato
       rect:
         serializedVersion: 2
         x: 922

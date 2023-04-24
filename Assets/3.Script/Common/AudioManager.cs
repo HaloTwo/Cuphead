@@ -5,66 +5,68 @@ using UnityEngine.SceneManagement;
 
 public class AudioManager : MonoBehaviour
 {
-    public static AudioManager Instance;
+    public static AudioManager instance;
 
-    [System.Serializable]
-    public class SceneAudio
-    {
-        public string sceneName;
-        public AudioClip backgroundMusic;
-    }
+    public AudioClip Title_cilp;
+    public AudioClip House_cilp;
+    public AudioClip Tutorial_cilp;
+    public AudioClip Goopy_cilp;
+    public AudioClip Map_cilp;
 
-    public SceneAudio[] sceneAudios;
-    [SerializeField]
     private AudioSource audioSource;
-    [SerializeField]
-    private string currentSceneName;
 
     private void Awake()
     {
-        if (Instance == null)
+        if (instance == null)
         {
-            Instance = this;
+            instance = this;
             DontDestroyOnLoad(gameObject);
         }
         else
         {
             Destroy(gameObject);
         }
+
+        audioSource = GetComponent<AudioSource>();
     }
 
     private void Start()
     {
-        audioSource = GetComponent<AudioSource>();
-        currentSceneName = SceneManager.GetActiveScene().name;
-        PlayBackgroundMusic(currentSceneName);
+        SceneManager.activeSceneChanged += ChangeMusic;
     }
 
-    private void Update()
+    private void ChangeMusic(Scene currentScene, Scene nextScene)
     {
-        string sceneName = SceneManager.GetActiveScene().name;
-        if (sceneName != currentSceneName)
+        if (nextScene.name == "Title")
         {
-            currentSceneName = sceneName;
-            PlayBackgroundMusic(currentSceneName);
+            audioSource.clip = Title_cilp;
         }
-    }
+        else if (nextScene.name == "MainMenu")
+        {
+            audioSource.clip = null;
+        }
+        else if (nextScene.name == "Goopy_Le_Grande")
+        {
+            audioSource.clip = Goopy_cilp;
+        }
+        else if (nextScene.name == "Tutorial")
+        {
+            audioSource.clip = Tutorial_cilp;
+        }
+        else if (nextScene.name == "House")
+        {
+            audioSource.clip = House_cilp;
+        }
+        else if (nextScene.name == "Map")
+        {
+            audioSource.clip = Map_cilp;
+        }
+        else if (nextScene.name == "Loading")
+        {
+            audioSource.clip = null;
+        }
 
-    private void PlayBackgroundMusic(string sceneName)
-    {
-        foreach (SceneAudio sceneAudio in sceneAudios)
-        {
-            if (sceneAudio.sceneName == sceneName)
-            {
-                if (audioSource.clip != sceneAudio.backgroundMusic)
-                {
-                    audioSource.Stop();
-                    audioSource.clip = sceneAudio.backgroundMusic;
-                    audioSource.Play();
-                }
-                return;
-            }
-        }
+        audioSource.Play();
     }
 }
 

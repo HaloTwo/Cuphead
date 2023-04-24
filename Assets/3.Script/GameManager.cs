@@ -23,6 +23,7 @@ public class GameManager : Singleton<GameManager>
 
     //맵에서 첫번째 보스 깻는지
     public bool FirstBoss = false;
+    public bool SecoundBoss = false;
 
     private GameState curState = GameState.TRANSITION_IN;
 

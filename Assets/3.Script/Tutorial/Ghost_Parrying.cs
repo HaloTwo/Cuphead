@@ -6,14 +6,12 @@ public class Ghost_Parrying : Parryable
 {
     private Animator ghost;
     private float timer;
-    private CircleCollider2D circleCollider2D;
 
     private void Awake()
     {
         TryGetComponent(out ghost);
-        TryGetComponent(out circleCollider2D);
         TryGetComponent(out audioSource);
-
+        TryGetComponent(out circleCollider2D);
     }
 
     private void Update()

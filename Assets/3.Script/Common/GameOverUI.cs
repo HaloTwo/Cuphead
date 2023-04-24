@@ -46,7 +46,7 @@ public class GameOverUI : MonoBehaviour
             switch (Idx)
             {
                 case 0:
-                    SceneManager.LoadSceneAsync("Goopy_Le_Grande");
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                     break;
                 case 1:
                     GameManager.Instance.CurState = GameState.TRANSITION_OUT;

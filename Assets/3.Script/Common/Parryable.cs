@@ -9,10 +9,13 @@ public class Parryable : MonoBehaviour
     public bool isParryable = true;
     [SerializeField]
     protected float parrying_time_slow = 0.1f;
+    [SerializeField]
+    protected CircleCollider2D circleCollider2D;
 
     private void Awake()
     {
         TryGetComponent(out audioSource);
+        TryGetComponent(out circleCollider2D);
     }
 
     private void OnEnable()

@@ -28,9 +28,10 @@ public class BossObject : MonoBehaviour
     {
         //버튼이 켜졌고, 플레이어와 다가간 상태에서, z버튼을 누르면 보스UI 출력
         if (Button.activeSelf == true && playerInRange && Input.GetKeyDown(KeyCode.Z))
-        {
+        {       
             Background.SetActive(true);
             Stage.SetActive(true);
+            
         }
         if (Input.GetKeyDown(KeyCode.Escape))
         {

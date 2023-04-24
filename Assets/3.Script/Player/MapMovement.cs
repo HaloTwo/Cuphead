@@ -11,12 +11,15 @@ public class MapMovement : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private GameObject Button;
     [SerializeField] private GameObject PauseUI;
-    public GameObject EquipButton;
+    [SerializeField] private GameObject EquipButton;
+    [SerializeField] private GameObject BosscardUI;
     [SerializeField] private TextMeshProUGUI Coin;
     //[SerializeField] private GameObject Boss;
 
+    bool bosscardActive = false;
     private bool victroy = false;
     public delegate void Del();
+
 
     void Start()
     {
@@ -55,14 +58,6 @@ public class MapMovement : MonoBehaviour
                 animator.SetFloat("MoveY", y);
             }
 
-            if (Input.GetKeyDown(KeyCode.LeftShift))
-            {
-                EquipButton.SetActive(true);
-            }
-            if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                EquipButton.SetActive(false);
-            }
         }
 
         int coin = Player_State.Instance.coin;
@@ -74,19 +69,30 @@ public class MapMovement : MonoBehaviour
 
     private void LateUpdate()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && !PauseUI.activeSelf)
+        Debug.Log(BosscardUI.activeSelf);
+        if (Input.GetKeyDown(KeyCode.Escape) && !PauseUI.activeSelf && !EquipButton.activeSelf && !Button.activeSelf)
         {
             Time.timeScale = 0f;
             PauseUI.SetActive(true);
-
         }
-        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf)
+        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf )
         {
             Time.timeScale = 1f;
             PauseUI.SetActive(false);
 
         }
+
+        if (Input.GetKeyDown(KeyCode.LeftShift) && !PauseUI.activeSelf && !EquipButton.activeSelf && !Button.activeSelf)
+        {
+            EquipButton.SetActive(true);
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape) && EquipButton.activeSelf)
+        {
+            EquipButton.SetActive(false);
+        }
+
     }
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

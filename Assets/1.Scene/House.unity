@@ -431,7 +431,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 93189865}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: adac624bcfb8ea042be69a3fea2ce6bb, type: 3}
   m_Name: 
@@ -451,9 +451,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: IrisOut
       objectReference: {fileID: 0}
+    - target: {fileID: 5940008941042318535, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5940008941042318535, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_ReferencePixelsPerUnit
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 5940008941042318584, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1511136786}
+    - target: {fileID: 5940008941042318584, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5940008941042318584, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
       propertyPath: m_SortingOrder
-      value: 10
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 5940008941042318585, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
       propertyPath: m_Pivot.x
@@ -1169,6 +1185,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 962962276, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3398488441155561360, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -1216,6 +1236,10 @@ PrefabInstance:
     - target: {fileID: 3398488441155561363, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
       propertyPath: m_Name
       value: Player_Jump_Dust
+      objectReference: {fileID: 0}
+    - target: {fileID: 3398488441155561390, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_SortingOrder
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
@@ -1803,6 +1827,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: IrisIn
       objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556372, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1511136786}
+    - target: {fileID: 1830081685580556372, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556373, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556373, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_ReferencePixelsPerUnit
+      value: 100
+      objectReference: {fileID: 0}
     - target: {fileID: 1830081685580556375, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1893,6 +1933,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+--- !u!1 &1076517564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 962962276, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+  m_PrefabInstance: {fileID: 475517418}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1080068459
 GameObject:
   m_ObjectHideFlags: 0
@@ -2076,9 +2121,17 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4515180551800503683, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: PauseUI
+      value: 
+      objectReference: {fileID: 1159688418}
+    - target: {fileID: 4515180551800503683, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: Jumpaudio
       value: 
       objectReference: {fileID: 475517420}
+    - target: {fileID: 4515180551800503683, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Super_Beam
+      value: 
+      objectReference: {fileID: 1076517564}
     - target: {fileID: 4515180551800503683, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: jump_animator
       value: 
@@ -2109,6 +2162,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+--- !u!1 &1159688418 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1459650136484260813, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+  m_PrefabInstance: {fileID: 1873867470}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1213485790
 GameObject:
   m_ObjectHideFlags: 0
@@ -2815,6 +2873,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4681997737754447231, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8330204794988651697, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -2898,6 +2960,22 @@ PrefabInstance:
     - target: {fileID: 8330204794988651697, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330204794988651698, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_Camera
+      value: 
+      objectReference: {fileID: 1511136786}
+    - target: {fileID: 8330204794988651698, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_RenderMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330204794988651698, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330204794988651699, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8330204794988651701, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
       propertyPath: m_Name

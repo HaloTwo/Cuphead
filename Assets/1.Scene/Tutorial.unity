@@ -476,6 +476,7 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   isParryable: 1
   parrying_time_slow: 0.1
+  circleCollider2D: {fileID: 0}
 --- !u!58 &49448924
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -1128,6 +1129,7 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   isParryable: 1
   parrying_time_slow: 0.1
+  circleCollider2D: {fileID: 0}
 --- !u!58 &231629559
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2938,6 +2940,22 @@ PrefabInstance:
       propertyPath: m_SortingOrder
       value: 6
       objectReference: {fileID: 0}
+    - target: {fileID: 962962278, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 962962279, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_SpriteTilingProperty.pivot.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 962962279, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 10.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 962962279, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 2.86
+      objectReference: {fileID: 0}
     - target: {fileID: 3398488441155561360, guid: 923704ca7d93c7e4792e40f453c2b7fc, type: 3}
       propertyPath: m_RootOrder
       value: 7
@@ -3160,7 +3178,8 @@ EdgeCollider2D:
   - {x: 6.7930365, y: 1.1501275}
   - {x: 6.8441863, y: 1.7826687}
   - {x: 6.9024644, y: 2.3682368}
-  - {x: 6.678868, y: 7.332108}
+  - {x: 6.6788683, y: 9.471304}
+  - {x: -8.60916, y: 6.8765645}
   - {x: 4.648839, y: 7.2874384}
   - {x: 4.570791, y: 6.3521137}
   - {x: 4.5833673, y: -0.35889363}
@@ -4898,6 +4917,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8330204794988651698, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
       propertyPath: m_SortingOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330204794988651699, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8330204794988651699, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
+      propertyPath: m_MatchWidthOrHeight
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8330204794988651701, guid: 72667f63eee206147ad9c66393e7c82b, type: 3}
@@ -4990,6 +5017,22 @@ PrefabInstance:
     - target: {fileID: 1830081685580556371, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
       propertyPath: m_IsActive
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556372, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_RenderMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556372, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_SortingOrder
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556373, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1830081685580556373, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1830081685580556375, guid: 6bf6645ff43787d48938131cfa570f1b, type: 3}
       propertyPath: m_Pivot.x
@@ -5675,6 +5718,7 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   isParryable: 1
   parrying_time_slow: 0.1
+  circleCollider2D: {fileID: 0}
 --- !u!58 &1254527569
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -7996,6 +8040,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5940008941042318535, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_ScreenMatchMode
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5940008941042318535, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
+      propertyPath: m_MatchWidthOrHeight
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5940008941042318584, guid: d0055cf0aa6d77f4daf9ed34d40fc313, type: 3}
       propertyPath: m_SortingOrder
       value: 5
@@ -8344,7 +8396,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 9
   m_TargetDisplay: 0
 --- !u!224 &1814246948
 RectTransform:
@@ -9488,6 +9540,18 @@ PrefabInstance:
       propertyPath: PowerCard.Array.data[4]
       value: 
       objectReference: {fileID: 1161188185}
+    - target: {fileID: 1762845639, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_Size.x
+      value: 3.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762845639, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_Size.y
+      value: 6.59
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762845639, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4515180551800503681, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: m_RootOrder
       value: 6
@@ -9575,6 +9639,22 @@ PrefabInstance:
     - target: {fileID: 4515180551800503708, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: m_Name
       value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447030516327245566, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 51.47848
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447030516327245566, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 26.26533
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447030516327245566, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 4.3157
+      objectReference: {fileID: 0}
+    - target: {fileID: 6447030516327245566, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.0884
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
@@ -9810,6 +9890,7 @@ MonoBehaviour:
   audioSource: {fileID: 0}
   isParryable: 1
   parrying_time_slow: 0.1
+  circleCollider2D: {fileID: 0}
 --- !u!1 &2045318879
 GameObject:
   m_ObjectHideFlags: 0

@@ -207,6 +207,7 @@ public class PlayerMovement : MonoBehaviour
 
         IEnumerator Super_Beam_co()
         {
+            Time.timeScale = 0f;
             weapon.stopFire();
             Attack_animator.SetBool("Shooting", false);
             power_gauge -= 100;
@@ -378,6 +379,10 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    void Time_Restart_Animation()
+    {
+        Time.timeScale = 1f;
+    }
 
     //눌린 값을 변환해주는
     public int GetIntAxis(float x)
@@ -416,8 +421,8 @@ public class PlayerMovement : MonoBehaviour
     void TakeDamage(Vector2 targetPos)
     {
         currenthp--;
-        animator.SetBool("Attacked", true);
         gameObject.layer = 11;
+        animator.SetBool("Attacked", true);
 
         int dirc = transform.position.x - targetPos.x > 0 ? 1 : 1;
         rb.AddForce(new Vector2(dirc, 1) * 7, ForceMode2D.Impulse);
@@ -460,7 +465,7 @@ public class PlayerMovement : MonoBehaviour
     //Enemy 태그와 부딪혔을때, 데미지 입음
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Enemy_Obj"))
         {
             Playeraudio.clip = HitCilp;
             Playeraudio.Play();
@@ -497,7 +502,7 @@ public class PlayerMovement : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.gameObject.CompareTag("Enemy"))
+        if (collision.gameObject.CompareTag("Enemy") || collision.gameObject.CompareTag("Enemy_Obj"))
         {
             Playeraudio.clip = HitCilp;
             Playeraudio.Play();

@@ -10,6 +10,7 @@ TagManager:
   - Wall
   - Card
   - PlatForm
+  - Enemy_Obj
   layers:
   - Default
   - TransparentFX
