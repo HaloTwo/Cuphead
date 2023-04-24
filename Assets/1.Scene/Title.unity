@@ -672,6 +672,7 @@ MonoBehaviour:
   Tutorial_cilp: {fileID: 8300000, guid: 0b8378ac9f2dfe242886be88ba336469, type: 3}
   Goopy_cilp: {fileID: 8300000, guid: 5e5909b07c124d54bbe5fb4117211ba9, type: 3}
   Map_cilp: {fileID: 8300000, guid: 47ea1e9717d76aa4ea8cf8552d45cfcb, type: 3}
+  BotanicPanic_cilp: {fileID: 8300000, guid: 3dbf4f41a33d15a4e9a1724fc3a5ced3, type: 3}
 --- !u!4 &890521883
 Transform:
   m_ObjectHideFlags: 0

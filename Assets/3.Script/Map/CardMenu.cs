@@ -10,7 +10,6 @@ public class CardMenu : MonoBehaviour
     public Color ActiveColor;
     public Color DeactiveColor;
     public GameObject HighLight;
-    public GoopyBoss boss;
 
     int idx = 0;
     public int Idx

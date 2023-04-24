@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 3132f902a87551e44ade370f14ecd534
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7092126752158447806
+    second: Title Cards_0
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -215,6 +218,27 @@ TextureImporter:
       bones: []
       spriteID: f8a28e75908180ce0800000000000000
       internalID: -1438873652536268145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Title Cards_0
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 834
+        width: 725
+        height: 523
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2470d8b6b44b39d90800000000000000
+      internalID: -7092126752158447806
       vertices: []
       indices: 
       edges: []

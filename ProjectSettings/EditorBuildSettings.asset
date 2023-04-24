@@ -26,4 +26,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/1.Scene/House.unity
     guid: b8110257a54d02b4b91a59576376efa7
+  - enabled: 1
+    path: Assets/1.Scene/BotanicPanic.unity
+    guid: 81293754c2d7c73418d137265a4b62a9
   m_configObjects: {}

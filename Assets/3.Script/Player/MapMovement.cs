@@ -16,7 +16,6 @@ public class MapMovement : MonoBehaviour
     [SerializeField] private TextMeshProUGUI Coin;
     //[SerializeField] private GameObject Boss;
 
-    bool bosscardActive = false;
     private bool victroy = false;
     public delegate void Del();
 
@@ -27,12 +26,23 @@ public class MapMovement : MonoBehaviour
         TryGetComponent(out animator);
         //받은 위치를 현재 위치로 전환
         transform.position = Player_State.Instance.playerPostion;
-        if (GameManager.Instance.FirstBoss == true && Player_State.Instance.FirstBoss == false)
+
+
+        if (GameManager.Instance.FirstBoss == true && Player_State.Instance.FirstBoss == false ||
+            GameManager.Instance.SecoundBoss == true && Player_State.Instance.SecoundBoss == false)
         {
             victroy = true;
             animator.SetBool("Victroy", victroy);
             StartCoroutine(Wait_co(3.5f, Victory));
-            Player_State.Instance.FirstBoss = true;
+            if (Player_State.Instance.FirstBoss == false)
+            {
+                Player_State.Instance.FirstBoss = true;
+            }
+            else if (Player_State.Instance.SecoundBoss == false)
+            {
+                Player_State.Instance.SecoundBoss = true;
+            }
+
         }
     }
 
@@ -75,7 +85,7 @@ public class MapMovement : MonoBehaviour
             Time.timeScale = 0f;
             PauseUI.SetActive(true);
         }
-        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf )
+        else if (Input.GetKeyDown(KeyCode.Escape) && PauseUI.activeSelf)
         {
             Time.timeScale = 1f;
             PauseUI.SetActive(false);

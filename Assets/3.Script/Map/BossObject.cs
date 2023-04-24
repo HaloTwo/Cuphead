@@ -18,7 +18,7 @@ public class BossObject : MonoBehaviour
 
     private void Start()
     {
-        if (GameManager.Instance.FirstBoss == true)
+        if (GameManager.Instance.FirstBoss == true || GameManager.Instance.SecoundBoss == true)
         {
             Flag.SetBool("Flag", true);
         }

@@ -12,6 +12,7 @@ public class AudioManager : MonoBehaviour
     public AudioClip Tutorial_cilp;
     public AudioClip Goopy_cilp;
     public AudioClip Map_cilp;
+    public AudioClip BotanicPanic_cilp;
 
     private AudioSource audioSource;
 
@@ -65,6 +66,11 @@ public class AudioManager : MonoBehaviour
         {
             audioSource.clip = null;
         }
+        else if (nextScene.name == "BotanicPanic")
+        {
+            audioSource.clip = BotanicPanic_cilp;
+        }
+        
 
         audioSource.Play();
     }
