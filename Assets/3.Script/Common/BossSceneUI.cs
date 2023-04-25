@@ -52,7 +52,6 @@ public class BossSceneUI : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(GameManager.Instance.CurState + "<< 지금 상태 ");
         if (player.currenthp <= 0)
         {
             GameManager.Instance.CurState = GameState.GAMEOVER;

@@ -11,7 +11,6 @@ public class Iris_Out_Scene : MonoBehaviour
 
     public void OnAnimationEnd()
     {
-        Debug.Log(GameManager.Instance.CurState + " < Intro ³Êµµ ‰Î ?");
         gameObject.SetActive(false);
     }
 }

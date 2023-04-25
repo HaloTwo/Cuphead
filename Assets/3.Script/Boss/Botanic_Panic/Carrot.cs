@@ -9,6 +9,10 @@ public class Carrot : Boss
     [SerializeField]
     private GameObject[] Bullet;
 
+    public AudioClip Carret_Die;
+    public AudioClip Beam_Go;
+    public AudioClip Beam_Go_fire;
+
     [SerializeField]
     private Transform player;
     private CircleCollider2D circleCollider;
@@ -19,6 +23,7 @@ public class Carrot : Boss
     {
         TryGetComponent(out circleCollider);
         GameManager.Instance.curPhase = 3;
+        
         StartCoroutine(Boss_Attack());
     }
 
@@ -54,7 +59,6 @@ public class Carrot : Boss
     }
 
 
-
     float RandomTearPosition()
     {
         int screenWidthHalf = (int)Camera.main.orthographicSize * Screen.width / Screen.height;
@@ -71,23 +75,52 @@ public class Carrot : Boss
     {
         while (true)
         {
-            yield return new WaitForSeconds(4f);
+            //인트로 3초
+            yield return new WaitForSeconds(3f);
 
+            //빔 발사 애니메이션 출력
             animator.SetBool("Beam", true);
-            yield return new WaitForSeconds(1f);
+            audioSource.clip = Beam_Go;
+            audioSource.Play();
 
-            for (int i = 0; i < Beam.Length; i++)
-            {
-                Beam[i].SetActive(false);
-                Beam[i].transform.position = transform.position + new Vector3(0f,1.5f,0f);
-            }
+            yield return new WaitForSeconds(2f);         
+            audioSource.clip = Beam_Go_fire;
+            audioSource.loop = true;
+            audioSource.Play();
 
-            for (int i = 0; i < Beam.Length; i++)
+            //총 4번 발사
+            int beam_count = 0;
+            while (beam_count <= 3)
             {
-                Beam[i].SetActive(true);
-                yield return new WaitForSeconds(0.1f);
-            }
+                beam_count++;
+                for (int i = 0; i < Beam.Length; i++)
+                {
+                    Beam[i].SetActive(false);
+                    Beam[i].transform.position = transform.position + new Vector3(0f, 1.5f, 0f);
+                }
+                for (int i = 0; i < Beam.Length; i++)
+                {
+                    Beam[i].SetActive(true);
+                    yield return new WaitForSeconds(0.1f);
+                }
+                yield return new WaitForSeconds(1.5f);
+            }        
             animator.SetBool("Beam", false);
+            audioSource.loop = false;
+
+            //빔 발사 종료 후 추격 미사일 발사
+            for (int i = 0; i < Bullet.Length; i++)
+            {
+                Bullet[i].SetActive(false);
+            }
+            AttackCount = 0;
+            for (int i = 0; i < Bullet.Length; i++)
+            {
+                Attack();
+                yield return new WaitForSeconds(1f);
+            }
+
+
         }
     }
 }

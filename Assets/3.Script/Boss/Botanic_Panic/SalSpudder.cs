@@ -10,6 +10,8 @@ public class SalSpudder : Boss
     [SerializeField]
     private GameObject[] Bullet;
 
+    public AudioClip Attack_clip;
+    public AudioClip Die;
 
     // Start is called before the first frame update
     void Start()
@@ -27,6 +29,8 @@ public class SalSpudder : Boss
         if (Currenthp <= 0 && !OnDie)
         {
             OnDie = true;
+            audioSource.clip = Die;
+            audioSource.Play();
             StopCoroutine(Boss_Attack_co());
 
             StartCoroutine(Boss_Out_co());
@@ -61,6 +65,8 @@ public class SalSpudder : Boss
             {
                 animator.SetTrigger("Attack");
                 yield return new WaitUntil(() => animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 0.7f && animator.GetCurrentAnimatorStateInfo(0).IsName("Potato_Attack"));
+                audioSource.clip = Attack_clip;
+                audioSource.Play();
                 Bullet[Attack_count].SetActive(true);
                 Attack_count++;
                 yield return new WaitForSeconds(1f); // 총알 발사 후 대기 시간

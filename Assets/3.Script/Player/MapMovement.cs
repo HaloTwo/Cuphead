@@ -79,7 +79,6 @@ public class MapMovement : MonoBehaviour
 
     private void LateUpdate()
     {
-        Debug.Log(BosscardUI.activeSelf);
         if (Input.GetKeyDown(KeyCode.Escape) && !PauseUI.activeSelf && !EquipButton.activeSelf && !Button.activeSelf)
         {
             Time.timeScale = 0f;

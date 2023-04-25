@@ -8,6 +8,9 @@ public class Ollie_Bulb : Boss
     bool OnDie = false;
     int AttackCount = 0;
 
+    public AudioClip Crying_cilp;
+    public AudioClip Die_cilp;
+
     [SerializeField]
     private GameObject[] tears = new GameObject[2];
 
@@ -29,13 +32,16 @@ public class Ollie_Bulb : Boss
     // Update is called once per frame
     void Update()
     {
- 
+
         if (Currenthp <= 0 && !OnDie)
         {
             OnDie = true;
             StopCoroutine(Boss_Attack());
             capsuleCollider.enabled = false;
             animator.SetTrigger("Die");
+
+            audioSource.clip = Die_cilp;
+            audioSource.Play();
         }
         if (animator.GetCurrentAnimatorStateInfo(0).IsName("Onion_Die") && animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f)
         {
@@ -91,6 +97,8 @@ public class Ollie_Bulb : Boss
                 tears[i].GetComponent<Animator>().Rebind();
                 tears[i].SetActive(true);
             }
+            audioSource.clip = Crying_cilp;
+            audioSource.Play();
 
             for (int i = 0; i < Bullet.Length; i++)
             {
@@ -107,6 +115,7 @@ public class Ollie_Bulb : Boss
 
             for (int i = 0; i < tears.Length; i++)
             {
+                audioSource.Stop();
                 tears[i].GetComponent<Animator>().SetTrigger("turnOff");
             }
             animator.SetBool("Attack", false);

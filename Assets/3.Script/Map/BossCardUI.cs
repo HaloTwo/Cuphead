@@ -7,6 +7,7 @@ public class BossCardUI : CardManager
 {
     [SerializeField] private string NextStage;
 
+
     public override void OnEnable()
     {
         base.OnEnable();

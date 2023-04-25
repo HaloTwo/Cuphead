@@ -153,6 +153,7 @@ public class PlayerMovement : MonoBehaviour
         //»ç¸Á ½Ã
         if (Die)
         {
+            Super_Beam.SetActive(false);
             gameObject.layer = 11;
             transform.Translate(new Vector2(0f, 0.5f) * Time.deltaTime);
             x = 0;

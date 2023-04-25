@@ -7,20 +7,26 @@ public class BossObject : MonoBehaviour
     [SerializeField] private GameObject Stage;
     [SerializeField] private GameObject Button;
     [SerializeField] private GameObject Background;
-    [SerializeField] private Animator Flag;
+     private Animator Flag1;
+     private Animator Flag2;
     [SerializeField] private bool playerInRange = false;
 
 
     private void Awake()
     {
-        GameObject.Find("Flag").TryGetComponent(out Flag);
+        GameObject.Find("Goopy_Flag").TryGetComponent(out Flag1);
+        GameObject.Find("Panic_Flag").TryGetComponent(out Flag2);
     }
 
     private void Start()
     {
-        if (GameManager.Instance.FirstBoss == true || GameManager.Instance.SecoundBoss == true)
+        if (GameManager.Instance.FirstBoss == true)
         {
-            Flag.SetBool("Flag", true);
+            Flag1.SetBool("Flag", true);
+        }
+        if (GameManager.Instance.SecoundBoss == true)
+        {
+            Flag2.SetBool("Flag", true);
         }
     }
 

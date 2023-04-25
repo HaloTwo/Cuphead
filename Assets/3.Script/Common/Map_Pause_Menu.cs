@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class Map_Pause_Menu : MonoBehaviour
 {
+    private AudioSource audioSource;
     public List<TextMeshProUGUI> menus = new List<TextMeshProUGUI>();
 
     public Color ActiveColor;
@@ -25,6 +26,7 @@ public class Map_Pause_Menu : MonoBehaviour
 
     void Start()
     {
+        TryGetComponent(out audioSource);
         Idx = 0;
     }
 
@@ -54,10 +56,12 @@ public class Map_Pause_Menu : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.UpArrow))
         {
+            audioSource.Play();
             Idx = Mathf.Max(Idx - 1, 0);
         }
         if (Input.GetKeyDown(KeyCode.DownArrow))
         {
+            audioSource.Play();
             Idx = Mathf.Min(Idx + 1, menus.Count - 1);
         }
     }

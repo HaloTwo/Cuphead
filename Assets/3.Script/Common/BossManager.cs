@@ -17,7 +17,6 @@ public class BossManager : MonoBehaviour
         //3페 보스 출격
         if (Boss1_Script.Currenthp <= 0 && !Boss_go && Boss1_Ani.GetCurrentAnimatorStateInfo(0).IsName("Boss_ph2_Die"))
         {
-            Debug.Log("오냐?");
             Invoke("Boss_Go", 3f);
             Boss_go = true;
         }

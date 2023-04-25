@@ -265,6 +265,10 @@ PrefabInstance:
       propertyPath: Boss
       value: 
       objectReference: {fileID: 622299972}
+    - target: {fileID: 7445750648702585253, guid: e6b7cd7ecd0005e40b80c37bd9701384, type: 3}
+      propertyPath: MaxHP
+      value: 200
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e6b7cd7ecd0005e40b80c37bd9701384, type: 3}
 --- !u!1 &622299968 stripped
@@ -1107,7 +1111,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5569228673851058708, guid: e644bfa76a1f4cc4cbd7dd9bb8ef85ae, type: 3}
       propertyPath: MaxHP
-      value: 400
+      value: 450
       objectReference: {fileID: 0}
     - target: {fileID: 5569228673851058729, guid: e644bfa76a1f4cc4cbd7dd9bb8ef85ae, type: 3}
       propertyPath: m_RootOrder

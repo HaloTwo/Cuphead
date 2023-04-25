@@ -14,7 +14,6 @@ public class Loading : MonoBehaviour
 
             StartCoroutine(LoadMyAsyncScene());
 
-            Debug.Log("로딩 코루틴 왔어 ?");
         }
         else
             Debug.Log("로딩 코루틴 비었어");
