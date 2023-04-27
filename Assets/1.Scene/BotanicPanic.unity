@@ -1341,6 +1341,18 @@ PrefabInstance:
       propertyPath: PowerCard.Array.data[4]
       value: 
       objectReference: {fileID: 173061748}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Bullet_prefab
+      value: 
+      objectReference: {fileID: 1512264902103273890, guid: bf25256aaeb5a434abb3be568ef7caed, type: 3}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: BigBullet_prefab
+      value: 
+      objectReference: {fileID: 3845225762502622677, guid: 95327018bc3a62e44b88a184a1e9355a, type: 3}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Bullet.Array.size
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 2789572745354806448, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: m_Enabled
       value: 1

@@ -18,7 +18,6 @@ public class Ghost_Parrying : Parryable
     {
         gameObject.transform.Translate(Vector2.up * Time.deltaTime * 3f);
 
-        Debug.Log(isParryable);
         timer += Time.deltaTime;
         if (timer >= 5f)
         {

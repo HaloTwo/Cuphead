@@ -3330,7 +3330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CameraArea: {fileID: 1324620818}
   target: {fileID: 783025638}
-  speed: 4
+  speed: 2
   followY: 0
   followX: 1
   offset: {x: 0, y: 0, z: -10}
@@ -9550,7 +9550,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1762845639, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: m_WasSpriteAssigned
-      value: 1
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Attack_Rate
+      value: 0.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: bulletClips
+      value: 
+      objectReference: {fileID: 8300000, guid: dbb8f060bf0cdbd4ea12e2ffb23819c4, type: 3}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Bullet_prefab
+      value: 
+      objectReference: {fileID: 1512264902103273890, guid: bf25256aaeb5a434abb3be568ef7caed, type: 3}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: BigBullet_prefab
+      value: 
+      objectReference: {fileID: 3845225762502622677, guid: 95327018bc3a62e44b88a184a1e9355a, type: 3}
+    - target: {fileID: 812956776481234119, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
+      propertyPath: Bullet.Array.size
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 4515180551800503681, guid: 9d1eb77744a6cc54c8d8dd857c7916e4, type: 3}
       propertyPath: m_RootOrder

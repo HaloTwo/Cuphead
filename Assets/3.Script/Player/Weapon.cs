@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -5,13 +6,20 @@ using UnityEngine;
 public class Weapon : MonoBehaviour
 {
     [SerializeField] private PlayerMovement player;
-    [SerializeField] private GameObject Bullet;
-    [SerializeField] private GameObject BigBullet;
+
+    [SerializeField] private GameObject Bullet_prefab;
+    [SerializeField] private GameObject[] Bullet = new GameObject[10];
+    [SerializeField] private GameObject BigBullet_prefab;
+    [SerializeField] private GameObject[] BigBullet = new GameObject[3];
+
     [SerializeField] private Animator animator;
     [SerializeField] private AudioSource Bulletaudio;
-    [SerializeField] private float Attack_Rate = 0.3f;
+    [SerializeField] private float Attack_Rate = 0.15f;
 
     public AudioClip bulletClips;
+
+    private int bullet_num = 0;
+    private int big_bullet_num = 0;
 
     [SerializeField]
     private Transform player_location;
@@ -31,7 +39,17 @@ public class Weapon : MonoBehaviour
 
     private void Start()
     {
-  
+        for (int i = 0; i < Bullet.Length; i++)
+        {
+            Bullet[i] = Instantiate(Bullet_prefab, transform.position, transform.rotation);
+            Bullet[i].SetActive(false);
+        }
+        for (int i = 0; i < BigBullet.Length; i++)
+        {
+            BigBullet[i] = Instantiate(BigBullet_prefab, transform.position, transform.rotation);
+            BigBullet[i].SetActive(false);
+        }
+
     }
 
 
@@ -63,7 +81,7 @@ public class Weapon : MonoBehaviour
         }
 
 
-        if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Side_Up") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Side_Up") 
+        if (animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Shoot_Side_Up") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Aim_Side_Up")
             || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Run_Shoot_Sideup") || animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Up"))
         {
             transform.localPosition = new Vector3(0.75f, 1.2f, 0);
@@ -109,8 +127,15 @@ public class Weapon : MonoBehaviour
 
         while (true)
         {
-       
-            Instantiate(Bullet, transform.position, transform.rotation);
+
+            if (bullet_num >= Bullet.Length)
+            {
+                bullet_num = 0;
+            }
+            Bullet[bullet_num].transform.position = transform.position;
+            Bullet[bullet_num].transform.rotation = transform.rotation;
+            Bullet[bullet_num].SetActive(true);
+            bullet_num++;
 
             yield return new WaitForSeconds(Attack_Rate);
 
@@ -134,16 +159,17 @@ public class Weapon : MonoBehaviour
 
     private IEnumerator Try_Special_Attack_co()
     {
-
-        //yield return new WaitUntil(() => animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Up") ||
-        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Straight") ||
-        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Up") ||
-        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Side_Down") ||
-        //    animator.GetCurrentAnimatorStateInfo(0).IsName("Player_Special_Attack_Down") && animator.GetCurrentAnimatorStateInfo(0).normalizedTime >= 1f);
-      
         yield return new WaitForSeconds(0.2f);
 
-        Instantiate(BigBullet, transform.position, transform.rotation);
+        if (big_bullet_num >= BigBullet.Length)
+        {
+            big_bullet_num = 0;
+        }
+
+        BigBullet[big_bullet_num].transform.position = transform.position;
+        BigBullet[big_bullet_num].transform.rotation = transform.rotation;
+        BigBullet[big_bullet_num].SetActive(true);
+        big_bullet_num++;
     }
 
     public void startAttack()

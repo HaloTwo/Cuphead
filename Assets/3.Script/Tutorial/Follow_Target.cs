@@ -46,6 +46,7 @@ public class Follow_Target : MonoBehaviour
             endPos.x = transform.position.x;
         }
 
+        //선형 보간법
         transform.position = Vector3.Lerp(transform.position, endPos, Time.deltaTime * speed);
     }
 }

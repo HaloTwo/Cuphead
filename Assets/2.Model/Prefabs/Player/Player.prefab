@@ -199,8 +199,23 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   player: {fileID: 0}
-  Bullet: {fileID: 1512264902103273890, guid: bf25256aaeb5a434abb3be568ef7caed, type: 3}
-  BigBullet: {fileID: 3845225762502622677, guid: 95327018bc3a62e44b88a184a1e9355a, type: 3}
+  Bullet_prefab: {fileID: 1512264902103273890, guid: bf25256aaeb5a434abb3be568ef7caed, type: 3}
+  Bullet:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  BigBullet_prefab: {fileID: 3845225762502622677, guid: 95327018bc3a62e44b88a184a1e9355a, type: 3}
+  BigBullet:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   animator: {fileID: 0}
   Bulletaudio: {fileID: 0}
   Attack_Rate: 0.15

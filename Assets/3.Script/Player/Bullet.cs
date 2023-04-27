@@ -8,7 +8,7 @@ public class Bullet : MonoBehaviour
 {
 
     [SerializeField]
-    private float bulletspeed = 20f;
+    private float bulletspeed = 50f;
     [SerializeField]
     private Animator animator;
     [SerializeField]
@@ -31,6 +31,10 @@ public class Bullet : MonoBehaviour
         TryGetComponent(out animator);
     }
 
+    private void OnEnable()
+    {
+         bulletspeed = 50f;
+    }
 
     private void FixedUpdate()
     {
@@ -60,7 +64,7 @@ public class Bullet : MonoBehaviour
     {
         bulletspeed = 0;
         yield return new WaitForSeconds(0.5f); //new WaitUntil(() => animator.GetNextAnimatorStateInfo(0).normalizedTime == 1.0f && animator.GetNextAnimatorStateInfo(0).IsName("bullet_destroy"));
-        Destroy(gameObject);
+        gameObject.SetActive(false);
     }
 
 }

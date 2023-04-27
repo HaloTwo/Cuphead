@@ -336,20 +336,6 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
-        // Vector2 velocity = new Vector2(0, rb.velocity.y);
-        //
-        // if (jumpKeystate == KeyState.DOWN)
-        // {
-        //     velocity.y = jumpPower;
-        //     jumpKeystate = KeyState.HOLD;
-        // }
-        // if (jumpKeystate == KeyState.UP)
-        // {
-        //     velocity.y *= 0.5f;
-        //     jumpKeystate = KeyState.NONE;
-        // }
-
-
         //c버튼을 누르거나 높이가 0이하가 되면 (엎드리면)
         if (animator.GetBool("C") || animator.GetInteger("Vertical") < 0)
         {
