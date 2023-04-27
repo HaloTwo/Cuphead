@@ -7,6 +7,8 @@ using TMPro;
 
 public class MapMovement : MonoBehaviour
 {
+    private Data data;
+
     private Movement2D movement2D;
     [SerializeField] private Animator animator;
     [SerializeField] private GameObject Button;
@@ -26,6 +28,7 @@ public class MapMovement : MonoBehaviour
         TryGetComponent(out animator);
         //받은 위치를 현재 위치로 전환
         transform.position = Player_State.Instance.playerPostion;
+        //data.LoadData();
 
 
         if (GameManager.Instance.FirstBoss == true && Player_State.Instance.FirstBoss == false ||
@@ -75,6 +78,7 @@ public class MapMovement : MonoBehaviour
 
 
         Player_State.Instance.playerPostion = transform.position;
+        //data.SaveData(transform.position, Player_State.Instance.FirstBoss, Player_State.Instance.SecoundBoss);
     }
 
     private void LateUpdate()
@@ -102,6 +106,10 @@ public class MapMovement : MonoBehaviour
 
     }
 
+    private void OnDisable()
+    {
+        //data.SaveData(transform.position, Player_State.Instance.FirstBoss, Player_State.Instance.SecoundBoss);
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
