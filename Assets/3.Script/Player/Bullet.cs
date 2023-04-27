@@ -9,6 +9,7 @@ public class Bullet : MonoBehaviour
 
     [SerializeField]
     private float bulletspeed = 50f;
+    private float currentSpeed;
     [SerializeField]
     private Animator animator;
     [SerializeField]
@@ -31,14 +32,15 @@ public class Bullet : MonoBehaviour
         TryGetComponent(out animator);
     }
 
+
     private void OnEnable()
     {
-         bulletspeed = 50f;
+        currentSpeed = bulletspeed;
     }
 
     private void FixedUpdate()
     {
-        transform.Translate(Direction * bulletspeed * Time.deltaTime);
+        transform.Translate(Direction * currentSpeed * Time.deltaTime);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -62,7 +64,7 @@ public class Bullet : MonoBehaviour
 
     IEnumerator DestroyBullet_co()
     {
-        bulletspeed = 0;
+        currentSpeed = 0;
         yield return new WaitForSeconds(0.5f); //new WaitUntil(() => animator.GetNextAnimatorStateInfo(0).normalizedTime == 1.0f && animator.GetNextAnimatorStateInfo(0).IsName("bullet_destroy"));
         gameObject.SetActive(false);
     }

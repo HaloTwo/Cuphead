@@ -2356,7 +2356,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CameraArea: {fileID: 1324620818}
   target: {fileID: 783025638}
-  speed: 4
+  speed: 3
   followY: 0
   followX: 1
   offset: {x: 0, y: 0, z: 0}
@@ -3330,7 +3330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   CameraArea: {fileID: 1324620818}
   target: {fileID: 783025638}
-  speed: 2
+  speed: 3
   followY: 0
   followX: 1
   offset: {x: 0, y: 0, z: -10}
