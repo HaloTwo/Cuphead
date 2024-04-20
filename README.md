@@ -1,6 +1,8 @@
 유니티를 사용해서 만든 컵헤드 입니다.
 
-[영상 링크]:(https://www.youtube.com/watch?v=5bR0k2nC6nk)
+
+[YouTube 동영상](https://www.youtube.com/watch?v=5bR0k2nC6nk)
+
 
 ![125](https://github.com/HaloTwo/Cuphead/assets/94442043/946490cc-c2f2-4da2-b380-553a3b73bdc3)
 ![123](https://github.com/HaloTwo/Cuphead/assets/94442043/d46e1c5b-9fe7-4605-b9af-fe5acdc2b63e)
